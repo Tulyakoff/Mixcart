@@ -1,0 +1,2135 @@
+---
+PAGES:
+  INTERMEDIAR:
+    INTERMEDIAR: Посредник
+    DISTRIBUTION: Дистрибуция
+    CONTROL: Управление
+    DELIVERIES: Мои поставки
+    CREATE_ROUND: Создать раунд
+    NO_ROUNDS: У вас нет ни одного раунда
+    CREATE_ROUND_MESSAGE: Вы можете создать раунд для сбора заявок
+    STATUS: Статус
+    CREATED_DATE: Дата создания
+    CREATED_BY: Кем создан
+    INIT_EXEC: Начать выполнение
+    FINISH: Завершить
+    BACK_TO_DISTRIBUTION: Назад к дистрибуции
+    REQUESTS: Заявки
+    CLEAR: Очистить
+    SEND: Отправить
+    DELIVERY: Поставка
+    TO_REQUEST: К заявке
+    PRODUCT: Товар
+    PLAN: План
+    BALANCE: Остаток
+    ASSIGNED: Назначено
+    DELIVERED: Поставлено
+    SUM: Сумма
+    ORDERED: Заказано
+    WAITING: Ожидается
+    ARTICLE: Артикул
+    AMOUNT: Количество
+    PRICE: Цена
+    CUSTOMER: Поставщик
+    ORDER: Заказать
+    QUANTITY: Количество
+    SMART_ESTIMATE: Умная смета
+    SET_ADDRESS_AND_AMOUNT: Укажите адрес поставки и количество позиций
+    DELIVERY_SET_ADDRESS: Адрес поставки
+    DELIVERY_ADDRESS: Адрес доставки
+    DELIVERY_DATE: Дата доставки
+    STORE_BALANCE: Осталось заказать
+    EXCESS: Избыток
+    ADD_ADDRESS: Добавить адрес
+    CREATE_STORE: Создать склад
+    CHANGES_SAVED: Данные изменены
+    ADD_SAVED: Склад создан
+    CANCEL: Отменить
+    SAVE: Сохранить
+    BALANCES: Остатки
+    STORE_NAME: Название склада
+    STORE_NAME_REQUIRED: Введите название склада
+    STORE_ADDRESS: Адрес склада
+    STORE_ADDRESS_REQUIRED: Введите адрес склада
+    LEGAL_ENTITY: Юридическое название
+    LEGAL_ENTITY_REQUIRED: Введите юридическое название
+    LEGAL_ADDRESS: Юридический адрес
+    LEGAL_ADDRESS_REQUIRED: Введите юридический адрес
+    PHONE_NUMBER: Номер телефона
+    EMAIL: Адрес электронной почты
+    STORE_RESTAURANTS: Рестораны склада
+    STORES_EMPTY_LIST: У вас нет ни одного склада
+    STORES: Склады
+    NAME: Название
+    ADDRESS: Адрес
+    ADD_VENDORS_MESSAGE: Вы можете добавить поставщика самостоятельно. Или отправьте
+      свою ссылку.
+    LOCATION: Расположение
+    NOT_SELECT_STORE: Данные пусты. Выберите расположение склада
+    ОF: Из
+    DIRECT_DELIVERIES: Прямые поставки
+    COUNT_REQUEST_TRANSLATIONS:
+      R_PLURAL: заявок
+      PLURAL: заявок
+      SINGULAR: заявка
+    COUNT_SENDER_REQUEST_TRANSLATIONS:
+      R_PLURAL: готовы к поставкам
+      PLURAL: готовы к поставкам
+      SINGULAR: готова к поставкам
+    BALANCE_TRANSLATIONS:
+      R_PLURAL: 'позициям из '
+      PLURAL: 'позициям из '
+      SINGULAR: 'позиции из '
+    ORDERS_LIST: Список заказов
+    ORDER_ID: ID Заказа
+    PRODUCT_NAME: Наименование товара
+    STORES_TRANSLATIONS:
+      R_PLURAL: склада
+      PLURAL: складов
+      SINGULAR: 'склад '
+    NOT_ENOUGH: 'Недостаточно остатков по '
+    PLAN_SUCCESS: План Раунда выполнен
+    PRODUCTS_TRANSLATIONS:
+      R_PLURAL: 'товара от '
+      PLURAL: 'товаров от '
+      SINGULAR: 'товар от '
+    VENDORS_TRANSLATIONS:
+      R_PLURAL: поставщиков
+      PLURAL: поставщиков
+      SINGULAR: поставщика
+    TOTAL_SUM: Общая сумма
+    NOT_SELECTED_ADDRESS: Данный адрес уже выбран
+    NOT_SELECTED_ADDRESS2: Отсутствует заявка от выбранной организации
+    QUANTITY_TOOLTIP: В скобках указано количество товаров, отправленных прямой поставкой
+    MY_DELIVERIES:
+      NUMBER_REQUEST: "№ Заявки"
+      REQUEST_NUMBER: Заявка №
+      BACK_TO_DELIVERIES: Назад к моим поставкам
+      CREATED_DATE: Дата создания
+      STATUS: Статус
+      RESTAURANT: Ресторан
+      CREATED_BY: Кем создан
+      CREATED: Создан
+      PRODUCT: Товар
+      ARTICLE: Артикул
+      COUNT: Кол-во
+      PRICE: Цена
+      SUM: Сумма
+      DETAILS: Детали
+      TO_ROUND: К раунду
+      TOTAL_SUM: Общая сумма
+      DELIVERY: Доставка
+      DISCOUNT: Скидка
+      DELIVERY_DATE: Дата доставки
+      INFORMATION: Информация
+      CUSTOMER: Заказчик
+      COMMENT: Комментарий
+      SUPPLY: Поставка
+      CANCEL: Отменить
+      SORTS:
+        ID: Идентификатор А-Я
+        ID_DESC: Идентификатор Я-А
+        CLIENT: Клиент А-Я
+        CLIENT_DESC: Клиент Я-А
+        USER: Кем создан А-Я
+        USER_DESC: Кем создан Я-А
+      CANCEL_REQUEST: Отменить поставку?
+      CANCEL_REQUEST_DESCRIPTION: Если вы отмените поставку, все действия будут отменены?
+      CONFIRM_CANCEL: Да, отменить
+    SELECT_CATEGORY: Выберите категорию в которой хотите произвести настройки
+    CONTROL_TRANSLATES:
+      ROLE: Роль
+      ROLES: Роли
+      EMPLOYERS: Сотрудников
+      EMPLOYERS_WITHOUT_ROLES: сотрудников не имеют ролей
+      FIO: ФИО
+      RESTAURANT: Ресторан
+      SELECT_ROLE: Выберите роль
+      SELECT_RESTAURANT: Выберите ресторан
+      ADD_EMPLOYEE: Добавить сотрудника
+      ADD_ROLE: Добавить роль
+      ADD_RESTAURANT: Добавить ресторан
+      TEMPLATES: Шаблоны
+      TEMPLATES_PLURAL: Шаблонов
+      TEMPLATES_UNASSIGNED: Шаблона не назначено
+      CREATE_TEMPLATE: Создать шаблон
+      TO_TEMPLATE: К шаблону
+      NAME: Название
+      NO_EMPLOYEE: У вас нет сотрудников
+      ADD_EMPLOYEE_OR_LINK: Вы можете добавить сотрудника самостоятельно. <br /> Или
+        отправьте свою ссылку.
+      ADD_EMPLOYEE_MESSAGE: 'Заполните необходимые поля такие как: Полное Имя, Адрес
+        электронной почты и телефон. Для добавления сотрудника.'
+      FULLNAME: Полное имя
+      FULLNAME_REQUIRED: Введите полное имя
+      EMAIL: Адрес электронной почты
+      PHONE: Телефон
+      ADD: Добавить
+      SAVE_CHANGED: Сохранить изменения
+      CANCEL_CHANGED: Отменить изменения
+      'YES': Да
+      'NO': Нет
+      CUSTOMERS: Поставщики
+      CUSTOMERS_PLURAL: поставщиков
+      DELEGATE: Делегировать
+      TYPE: Тип
+      WARNING: Внимание!
+      DELEGATE_CONFIRM: Вы точно хотите делегировать права на управление поставщиками
+        указанным ресторанам? Все действующие настройки будут отменены.
+      DELEGATE_BUTTON_CONFIRM: Да, делегировать
+      EMPLOYEE_INFO: Информация о сотруднике
+  MERCURY:
+    PRODUCT_NAME: Название продукции
+    PRODUCT_SENDER: Фирма отправитель
+    STATE: Статус
+    QUANTITY: Объем
+    OUTPUT_DATE: Выработан
+    ISSUE_DATE: Оформлен
+    NOT_CERTIFICATES: Нет сертификатов
+    CERTIFICATE: Сертификат
+    CERTIFICATES: Сертификаты
+    PRODUCTS_MAGAZINE: Журнал продукции
+    REFERENCES: Справочники
+    ORDER_ID: Номер
+    ORDER_STATUS: Статус сертификата
+    CUSTOMER: Поставщик
+    VSD_COUNT: Кол-во
+    TOTALS: Итоговая сумма
+    CERTIFICATES_OUT_OF_DOCS: Сертификаты вне документов
+    RETURN: Возврат
+    REPAY: Погасить
+    PARTIAL_ACCEPTANCE: Частичная приемка
+    PRINT_FORM: Печатная форма
+    CERTIFICATE_DETAILS: Детали сертификата
+    ORDER_DETAILS: Детали заказа
+    COUNTRY_OF_ORIGIN: Страна происхождения
+    PRODUCT_MANUFACTURER: Производитель продукции
+    WAYBILL: Транспортная накладная
+    WAYBILL_DATE: Дата транспортной накладной
+    VEHICLE_NUMBER: Номер автомобиля
+    VETERINARY_EXAM: Ветеринарно-санитарная экспертиза
+    WELL_BEING_ZONE: Благополучие местности
+    SPECIAL_NOTES: Особые отметки
+    MESSAGE_1: Выбрано
+    MESSAGE_2: в заказе
+    MESSAGE_3: ", погасить все?"
+    REPAY_ALL: Погасить Все
+    SELECT_ALL: Выбрать все
+    REPAY_NO_INVOICE: У вас
+    REPAY_SELECTED: Погасить выбранные
+    CLIENT: Заказчик
+    COMMENT: Комментарий
+    ACCEPTANCE_QUANTITY: Количество
+    CAUSE: Причина составления
+    DESCRIPTION: Описание несоответствия
+    REPAY_SUCCESS_SINGLE: Сертификат погашен
+    REPAY_SUCCESS_MORE: Сертификаты погашены
+    SYNC_END: Данные синхронизированы
+    NOT_SYNC: не проводилась
+    SYNC_START: Следующая синхронизация
+    CONDITION_ICON_TITLE_1: Данная продукция требует повышенного внимания по правилам
+      регионализации
+    CONDITION_ICON_TITLE_2: Продукция прибывшая из неблагополучной местности
+    INCOMING_CERTIFICATE:
+      R_PLURAL: входящих
+      PLURAL: входящих
+      SINGULAR: входящий
+    REPAY_NO_CERTIFICATE:
+      R_PLURAL: оформленных сертификатов
+      PLURAL: оформленных сертификатов
+      SINGULAR: оформленный сертификат
+    CERTIFICATES_TRANSLATIONS:
+      R_PLURAL: сертификата
+      PLURAL: сертификатов
+      SINGULAR: сертификат
+    REQUIRED: Поле обязательно для заполнения
+    MAX_VALUE: Значение не может быть больше максимального
+    MAX: MAX
+    INFO: Информация
+    PRINT_PDF: Печатная форма PDF
+    VSD_DETAILS: Сведения о ВСД
+    SENDER: Отправитель
+    RECIPIENT: Получатель
+    PRODUCTS: Продукция
+    TRANSPORT: Транспорт
+    TRANSPORT_INVOICE: Транспортная накладная
+    VSD_AUTHOR: Кто выписал ВСД
+    OTHER_INFO: Прочая информация
+    VSD_STATE: Статус ВСД
+    VSD_ID: Номер ВСД
+    VSD_DATE: Дата оформления ВСД
+    VSD_FORM: Форма ВСД
+    VSD_VET_FORM: Тип ВСД
+    ORGANIZATION_NAME: Название предприятия
+    PRODUCT_OWNER: Хозяйствующий субъект (владелец продукции)
+    PRODUCTS_TYPE: Тип продукции
+    PRODUCTS_FORM: Вид продукции
+    PRODUCTS_IN_NOMENCLATURE: Продукции в номенклатуре производителя
+    PRODUCTION_DATE: Дата выработки продукции
+    PRODUCTS_SHELF_LIFE: Срока годности продукции
+    PERISHABLE_PRODUCTS: Скоропортящаяся продукция
+    LIST_OF_MANUFACTURERS: Список производителей продукции
+    LABORATORY_RESULT: Результат лабораторного исследования
+    TRANSPORT_TYPE: Вид транспорта
+    CAR_NUMBER: Номер машины
+    STORAGE_METHOD: Способ хранения
+    NUMBER: Номер
+    DATE: Дата
+    FULL_NAME: ФИО
+    POSITION: Должность
+    WELL_BEING_AREA: Благополучие местности
+    VET_EXPERTISE: Проводилась ли ветсанэкспертиза
+    SPECIAL_MARKS: Особые отметки
+    DIRECTION:
+      INCOMING: Входящий
+      OUTGOING: Исходящий
+    OPERATION:
+      ERROR: Ошибка операции
+      EXTINGUISHED: Погашен
+      RETURNED: Возвращенный
+      PARTIAL_ACCEPTED: Частично принят
+    REGIONALIZATION:
+      NAME: Регионализация
+      CONDITIONS: Подтвердите выполнение всех необходимых условий
+      RECIPIENT: Получатель
+      PRODUCTS: Продукция
+      AUTO_MODE: Подтвердить выполнение условий в автоматическом режиме?
+      FILL_IN_AUTOMATICALLY: Заполнить автоматически
+      NAME_OF_THE_DISEASE: Название болезни
+      OPTIONS: Вариантов
+      STATUS: Статус
+      DISEASE: Болезнь
+      CANCEL: Отмена
+      CONFIRM_RETURN_POLICY: Подтвердить условия возврата
+      CONFIRM: Да, продолжить
+      ATTENTION: Внимание!
+      ATTENTION_MESSAGE1: Если Вы продолжите, то будут выбраны первые варианты каждой
+        группы вопросов. В этом случае не гарантируется отсутствие противоречий выбранных
+        условий.
+      ATTENTION_MESSAGE2: Вы возлагаете на себя ответственность за предоставляемую
+        информацию.
+      MAIN: Основной
+      OR: Или
+    ACCEPTANCE_CAUSE: Укажите причину составления акта и краткое описание несоответствия
+    REFERENCES_PAGE:
+      REFERENCE: Справочник
+      LOAD: Загрузить
+      LOAD_ALL: Загрузить все
+      UPDATED: Обновлен
+      QUANTITY: Кол-во
+      STATE: Статус
+      STATE_UPDATED: Обновлен
+      STATE_NOT_UPDATED: Не обновлен
+      ERROR: Ошибка
+      ERROR_LOAD: Ошибка загрузки
+      PANEL_INFO: Нажмите Загрузить для обновления данных в справочнике из учетной
+        системы
+      PRODUCT_NAME: Наименование продукции
+      BACK_TO_REFERENCES: Назад к справочникам
+      ADD_PRODUCT: Добавить позиции
+      NAME: Название
+      TYPE: Тип
+      ARTICLE: Артикул
+      ACTIVITY: Активность
+      CANCEL: Отмена
+      SAVE: Сохранить
+      ADD: Добавить
+      PRODUCT_TYPE: Тип продукции
+      PRODUCT_SUBTYPE: Продукция
+      PRODUCT_FORM: Вид продукции
+      FORM: Вид
+      GOST: ГОСТ
+      PACKING_DETAILS: Сведения об упаковке
+      UNITS_PER_PACK: Количество единиц в упаковке
+      UNITS: Единица измерения
+      PRODUCER_ENTITY: Фирма-производитель
+      PRODUCER_ENTERPRISE: Предприятие-производитель
+      EDIT_PRODUCTS: Редактирование позиции
+      EDIT_PRODUCT: Редактировать позицию
+      DELETE: Удалить
+      ADD_PRODUCER_ENTERPRISE: Добавить предприятие производителя
+      VOLUME_PER_PACK: Объем единиц в упаковке
+      PRODUCT_DETAILS: Сведения о продукции
+      ARTICLE_MANUFACTURER: Артикул производителя
+      PERISHABLE_PRODUCTS: Скоропортящаяся продукция
+      SHELF_LIFE: Срок годности
+      SHELF_LIFE_INFO: "(1г = год ; 1м = месяц; 1д = день; 1ч = час)"
+      MANUFACTURERS: Производители
+      PACKING: Фасовка
+      TECHNICAL_CARD: Техническая карта
+      PACKING_TYPE: Тип упаковки
+      UNIT_OF_VOLUME_PER_PACK: Единица измерения объема единицы упаковки товара
+      ADD_INGREDIENT_MESSAGE: Добавьте в продукцию ингредиент в соответствии с номенклатурой
+        Меркурия
+      ADD_INGREDIENT: Добавить ингредиент
+      VOLUME: Объем
+      'YES': Да
+      'NO': Нет
+      EMPTY_PRODUCTS_LIST: Нет продукции
+      SELECT_INGREDIENT: Выберите ингредиент
+      SELECT_PRODUCER: Выберите производителя
+      PRODUCTION_CREATED: Продукция создана
+      PRODUCTION_UPDATED: Продукция редактирована
+      TRANSPORTS: Транспортные средства
+      TRANSPORT: Транспортное средство
+      ADD_TRANSPORT: Добавить транспорт
+      CAR_NUMBER: Номер машины
+      TRAILER_NUMBER: Номер полуприцепа
+      CONTAINER_NUMBER: Номер контейнера
+      STORAGE_METHOD: Способ хранения
+      EMPTY_TRANSPORT_LIST: Нет транспортных средств
+      TRANSPORT_DELETED: Транспортное средство удалено
+      TRANSPORT_CREATED: Транспортное средство создано
+      TRANSPORT_EDITED: Транспортное средство редактировано
+      ENTER_CAR_NUMBER: Введите номер автотранспорта
+      AGENT: Контрагент
+      AGENTS: Контрагенты
+      ADD_AGENT: Добавить контрагента
+      ORG_NAME: Наименование предприятия
+      GUID: GUID
+      HS_NAME: Наименование ХС
+      HS_GUID: GUID ХС
+      AGENT_ADDED: Контрагент добавлен
+      AGENT_CHANGED: Контрагент изменен
+      AGENT_DELETED: Контрагент удален
+    JOURNAL:
+      NUMBER: Номер
+      PRODUCTION_NAME: Наименование продукции
+      PRODUCT_NAME: Название продукции
+      PRODUCER: Производитель
+      COUNTRY: Страна
+      REMAIN: Остаток
+      ADDED: Добавлено
+      PRODUCED: Изготовленно
+      EXPIRATION_DATE: Срок годности
+      PRODUCTION: Продукция
+      DATA_SYNC: Данные синхронизированы
+      NEXT_DATA_SYNC: Следующая синхронизация
+      WRITE_EXPIRED_PRODUCTION: Списать всю просроченную продукцию
+      AUTO_CONVERSION: Авто переработка
+      AUTO_CONVERSION_LIST_EMPTY: Список продукции для авто переработки пуст
+      PRODUCTION_FORM: Вид продукции
+      WRITE: Списать
+      SEND: Отправить
+      RECYCLE: Переработать
+      PRODUCTION_DETAILS: Детали продукции
+      SUPPLIER: Поставщик
+      PART_NUMBER: "№ производственной партии"
+      PACKING: Упаковка
+      SORT: Сортировка
+      LABORATORY_RESEARCH: Лабораторные исследования
+      DATE_ADDED: Дата добавления
+      PRODUCTION_NUMBER: Номер записи
+      BALANCE: Остаток продукции
+      PRODUCED_BY: Выработанная
+      PRODUCED_COUNTRY: Страна происхождения
+      ACT_NUMBER: Номер акта
+      EXPERT_NUMBER: "№ Экспертизы"
+      LABORATORY: Лаборатория
+      METHOD_RESEARCH: Метод исследования
+      INDICATOR: Показатель
+      RESEARCH_DATE: Дата проб
+      RESULT_DATE: Дата результата
+      CONCLUSION: Заключение
+      RESULT: Результат
+      EMPTY_LIST: Список пуст
+      POSITIVE: Положительный
+      NEGATIVE: Отрицательный
+      CREATE: Создать
+      AUTO_CONVERSION_SELECT_ITEM: Выберите необходимую позицию для автоматического
+        создания продукции
+      NAME_PRODUCT: Наименование товара
+      VOLUME: Объем
+      MAX_VOLUME: Макс. объем
+      PRODUCTION_CONVERSED: Продукция переработана
+      TRANSPORT_INVOICE: Товарно-транспортная накладная
+      PRESENT: Присутствует
+      MISSING: Отсутствует
+      PURPOSE: Назначение груза
+      VET_EXPERTISE_RESULT: Результаты проведения ВСЭ
+      PROSPERITY_AREA: Благополучие местности
+      CREATE_TVSD: Создание нового транспортного ВСД
+      SET_PRODUCTION_INFO: Укажите продукцию и его объем для отправки
+      SET_VET_EXPERTIZE: Укажите информацию о ветеринарной экспертизе
+      SET_RECIPIENT: Укажите информацию о получателе товара
+      SET_TRANSPORT_INFO: Укажите информацию о транспорте
+      NEXT_TO_STEP: Далее к шагу
+      TO_ISSUE: Оформить
+      RECIPIENT_ENTERPRISE: Предприятие получатель
+      RECIPIENT_ENTERPRISE_NAME_GUID: Название/GUID предприятия получателя
+      ENTERPRISE_NOT_FOUND: Предприятие найдено
+      RECIPIENT_BUSINESS: Фирма получатель
+      RECIPIENT_BUSINESS_NAME_INN: Название/ИНН фирмы получателя
+      RECIPIENT_BUSINESS_NOT_FOUND: Фирм не найдено
+      RECIPIENT_BUSINESS_INN: ИНН Фирмы получателя
+      SERIES: Серия
+      DATE: Дата
+      PRODUCTION_WRITED_OFF: Продукция списана
+      INVENT_PARTIAL_WRITE: Провести инвентаризацию для частичного списания продукции
+      AMOUNT: Количество
+      MAX: макс
+      REASON: Причина составления акта несоответствия
+      REASON_DESC: Описание несоответствия
+      TRAILER_NUMBER: Номер полуприцепа
+      CONTAINER_NUMBER: Номер контейнера
+      VEHICLE_NOT_FOUND: Транспортное средство не найдено
+      PRODUCTION_DATE_TIME: Дата и время производства
+      EXPIRY_DATE_TIME: Дата и время срока годности
+      PACKING_CATEGORY: Категория упаковки
+      UNIT_AMOUNT: Количество единиц
+      CONVERSION: Переработка
+      CREATE_CONVERSION_VSD: Создание нового ВСД на переработку
+      CONVERSION_DONE: Переработка произведена
+      CONVERSION_FAILED: Переработка не произведена
+      TVSD_CREATED: Транспортный ВСД создан
+      PURPOSE_FOR_HUMANS: Реализация в пищу людям
+      RESULT_POSITIVE: Положительный результат
+      WELL_AREA: Благополучный регион
+      SET_REQUIRED_FIELDS: 'Заполните обязательные поля: Скоропортящаяся продукция,
+        Срок годности, Тип упаковки, Единица измерения, Кол-во единиц в упаковке,
+        Объем единиц в упаковке'
+      PRODUCTION_NOT_FOUND: Продукция не найдена
+      DICTIONARIES_NOT_FOUND: Справочников не найдено
+      CONVERSION_REMAINING: Переработать оставшейся
+      MC_ORGANIZATION_NAME: Наименование организации MixCart
+      INTERNAL_MOVE: Внутреннее перемещение
+      FOR_INTERNAL_MOVE: на внутреннее перемещение
+      EXPIRY_STATUS_EXPIRED: Срок годности истек
+      EXPIRY_STATUS_WARNING: Заканчивается срок годности
+    VENDOR_VSD:
+      RETURN_TO_VENDOR: Вернуть поставщику
+      CREATE_VENDOR_VSD: Создание ВСД на возврат поставщику
+      TRANSPORT_INFO: Укажите информацию о транспорте
+      IS_VENDOR_TRANSPORT: Использован автомобиль поставщика
+      RETURN_PURPOSE: Причина составления акта несоответствия
+      REGISTER: Оформление
+      COUNT: Количество (
+      MAX: Макс)
+      RETURN_REGISTERED: Возврат оформлен
+      MAX_VALUE_ERROR: Значение не может быть больше максимального
+  ANALYTICS:
+    ANALYTICS: Аналитика
+    VOLUME_PURCHASES_FOR_PERIOD: Оборот закупок за период
+    ORDERS_BY_CUSTOMERS: Объем закупок за период
+    VOLUME_BY_CUSTOMERS: Объем по поставщикам
+    STATISTICS_FOR_PRODUCTS: Статистика по товарам
+    NO_DATA: Нет данных
+    PRODUCT: Товар
+    UNITS: Ед. изм.
+    QUANTITY: Кол-во
+    TOTALS: Ср. цена за ед.
+    NEW_ORDERS:
+      R_PLURAL: Новых заказа
+      PLURAL: Новых заказов
+      SINGULAR: Новый заказ
+    ORDERS_IN_PROCESS:
+      R_PLURAL: Заказа выполняется
+      PLURAL: Заказов выполняется
+      SINGULAR: Заказ выполняется
+    ORDERS_DONE:
+      R_PLURAL: Заказа завершено
+      PLURAL: Заказов завершено
+      SINGULAR: Заказ завершен
+    TOTALS_FOR_PERIOD: Оборот за период
+    GO_TO_PRICE_DYNAMICS: Перейти к статистике динамики по цене
+    BACK_TO_VOLUME_STATISTICS: Назад к статистике по объемам
+    PRICE_DYNAMICS_FOR_PERIOD: Динамика цены за период
+    PRODUCTS_STATISTICS: Статистика по товарам
+    NOMENCLATURE: Номенклатура
+    SUPPLIER: Поставщик
+    COUNT: Кол-во
+    PRICE_DYNAMICS: Динамика цены
+    ORDER: Заказ
+    PRICE_PRICELIST: Цена по прайс-листу
+    PRICE_CONFIRMED: Цена при подтверждении
+    PRICE_ACCEPTANCE: Цена при приемке
+    PRICE_INVOICE: Цена по накладной
+  LOGIN:
+    ENTER_DETAILS: Введите данные авторизации
+    EMAIL_LABEL: Адрес электронной почты
+    EMAIL_REQUIRED: Введите адрес электронной почты
+    EMAIL_NOT_VALID: Адрес электронной почты введен неверно
+    PASSWORD_LABEL: Пароль
+    PASSWORD_REQUIRED: Введите пароль
+    PASSWORD_NOT_VALID: Для пароля необходимо использовать только буквы латинского
+      алфавита, не менее 6 символов, в том числе цифры/заглавные буквы/ спецсимволы
+    WELCOME: Добро пожаловать
+    FORGOT_PASSWORD: Забыли пароль?
+    REGISTER: Регистрация
+    FIRST_TIME: Впервые у нас?
+    LOGIN: Войти
+  REGISTRATION:
+    JOIN_US: Присоединяйтесь к нам
+    RESTAURANT: Ресторан
+    SUPPLIER: Поставщик
+    PHONE_LABEL: Телефон
+    PHONE_REQUIRED: Введите телефон
+    PHONE_NOT_VALID: Телефон введен неверно
+    EMAIL_LABEL: Адрес электронной почты
+    EMAIL_REQUIRED: Введите адрес электронной почты
+    EMAIL_NOT_VALID: Адрес электронной почты введен неверно
+    PASSWORD_LABEL: Пароль
+    PASSWORD_REQUIRED: Введите пароль
+    PASSWORD_NOT_VALID: Для пароля необходимо использовать только буквы латинского
+      алфавита, не менее 6 символов, в том числе цифры/заглавные буквы/ спецсимволы
+    REGISTER: Зарегистрироваться
+    BY_PRESSING_REGISTER: Нажимая кнопку «Зарегистрироваться», вы принимаете условия
+    EULA: Пользовательского соглашения
+    GRANTING_AGREEMENT: и даете свое согласие на обработку вашей персональной информации
+      на условиях, определенных
+    PRIVACY_POLICY: Политикой конфиденциальности
+    ALREADY_REGISTERED: Уже есть аккаунт
+    LOGIN: Вход
+    BUSINESS_REQUIRED: Выберите тип организации
+    NAME_LABEL: Наименование
+    NAME_REQUIRED: Введите наименование
+  RESTORE_PASSWORD:
+    PASSWORD_RESTORATION: Восстановление пароля
+    ENTER_EMAIL: Введите адрес электронной почты, который вы использовали при регистрации
+    EMAIL_LABEL: Адрес электронной почты
+    EMAIL_REQUIRED: Введите адрес электронной почты
+    EMAIL_NOT_VALID: Адрес электронной почты введен неверно
+    RESTORE: Восстановить
+    INSTRUCTIONS_SENT: Инструкции по восстановлению пароля высланы на ваш адрес электронной
+      почты
+    GO_BACK: Вернуться
+    LOGIN: Вход
+    REGISTER: Регистрация
+  PHONE_VERIFICATION:
+    LAST_STEP: Остался всего один шаг
+    CONFIRM_VIA_SMS_CODE: Подтвердите номер телефона полученным кодом из смс-сообщения
+    SMS_CODE: Код из смс-сообщения
+    CODE_REQUIRED: Введите код из смс-сообщения
+    CONFIRM: Подтвердить
+    SEND_AGAIN: Отправить код еще раз
+    CHANGE_NUMBER: Изменить номер
+  CHOOSE_ORGANIZATION:
+    YOUR_BUSINESS: Выбор бизнес-профиля
+    RESTAURANT: Ресторан
+    SUPPLIER: Поставщик
+    LOGOUT: Выйти
+    WITHOUT_BUSINESS: Не входит в бизнес
+    CONNECTED: Подключено
+    RESTAURANTS:
+      SINGULAR: ресторан
+      PLURAL_1: ресторана
+      PLURAL_2: ресторанов
+    LICENSE: Лицензия
+    LEFT: осталось
+    DAYS: дней
+    ORGANIZATIONS_NOT_FOUND: Организации не найдено
+  CART:
+    CART: Корзина
+    BEFORE_MIN_SUM: 'До мин. суммы:'
+    PRODUCTS_COUNT: 'Количество позиций:'
+    CLEAR: Очистить
+    CHECKOUT: Оформить
+    QUANTITY_TRANSLATIONS:
+      R_PLURAL: товара
+      PLURAL: товаров
+      SINGULAR: товар
+    SUM: на сумму
+    CART_EMPTY: Корзина пуста
+    AND_OTHERS: "… и другие товары"
+  PRODUCT_LIST:
+    PRODUCT: Товар
+    VENDOR_CODE: Артикул
+    SUPPLIER: Поставщик
+    PRICE: Цена
+    QUANTITY: Количество
+    PRODUCTS_NOT_FOUND: Продукты не найдены
+  PRODUCT_MODAL:
+    ARTICLE: Артикул
+    SUPPLIER: Поставщик
+    MANUFACTURER: Производитель
+    COUNTRY_MANUFACTURER: Страна производитель
+    UNITS: Кратность
+    DESCRIPTION: Комментарий
+    PRICE: Цена
+    PRICE_WITH_VAT: Цена с НДС
+    VAT: НДС
+    QUANTITY: Количество
+  MARKET:
+    VENDOR_CARD: Карточка поставщика
+    MIN_ORDER_SUM: Мин.сумма заказа
+    DELIVERY_PRICE: Стоимость доставки
+    PRODUCTS_DISCOUNT: Скидка на товары
+    DELIVERY_DISCOUNT: Скидка на доставку
+    DELIVERY_DAYS: Дни недели для доставки
+  CHECKOUT:
+    CHECKOUT_ORDER: Оформление заказа
+    CART_EMPTY: Корзина пуста
+    GO_TO_MARKET: Перейти к продуктам
+    TOTAL: Общая сумма
+    CLEAR: Очистить
+    CHECKOUT_ALL: Оформить все заказы
+    CHECKOUT_SOME: 'Оформить заказы: {{ orderCount }} из {{ totalOrdersCount }}'
+    SUPPLIER: Поставщик
+    PRODUCT: Товар
+    VENDOR_CODE: Артикул
+    QUANTITY: Кол-во
+    PRICE: Цена
+    SUM: Сумма
+    DISCOUNT: Скидка
+    COMMENTS: Комментарии
+    DELIVERY: Доставка
+    DELIVERY_DATE: Дата доставки
+    COMMENT: Комментарий
+    CHECKOUT: Оформить
+    VENDOR_TRANSLATIONS:
+      R_PLURAL: поставщиков
+      PLURAL: поставщиков
+      SINGULAR: поставщика
+    FROM: от
+  CREATE_ORDER:
+    MY_GOODS: Мои товары
+    TEMPLATES:
+      TAB_TITLE: Шаблоны
+      NOT_PERMISSIONS: У вас нет прав на создание, редактирование и удаление шаблонов
+      SORTING_FIELDS:
+        UPDATED_AT_ASCENDING: По возрастанию даты обновления
+        UPDATED_AT_DESCENDING: По убыванию даты обновления
+        NAME_ALPHABET: По названию шаблона A-Я
+        NAME_ALPHABET_REVERSE: По названию шаблона Я-А
+    REQUESTS: Заявки
+  SETTINGS:
+    PRIMARY:
+      LABEL: Основные
+      COMPANY_NAME: Название вашей компании
+      LEGAL_ENTITY: Юридическое лицо
+      LOGO: Логотип
+      ADDRESS_LABEL: Город, улица, дом
+      ABOUT_ORGANIZATION: Краткая информация
+      CONTACT_NAME: Контактное лицо
+      NAME: Имя
+      EMAIL: Email
+      PHONE: Телефон
+      SAVE: Сохранить
+      ADDRESS_NOT_FOUND: Адрес не найден
+      COUNTRY: Страна
+    STAFF: Сотрудники
+    STAFF_ADD_STAFF: Добавить Сотрудника
+    STAFF_FIO: ФИО
+    STAFF_EMAIL: Электронная почта
+    STAFF_PHONE: Телефон
+    STAFF_ROLE: Роль
+    STAFF_ADDED: Сотрудник добавлен
+    STAFF_REMOVED: Сотрудник удален
+    PRIVACY: Конфиденциальность
+    PRIVACY_FRANCHISE_LOGIN: Разрешить франчайзи вход в данный Личный Кабинет
+    PRIVACY_USER_AGREEMENT: Пользовательское соглашение
+    PRIVACY_PRIVACY_POLICY: Политика конфиденциальности
+    PRIVACY_AUTHORIZATION_DATA: Авторизационные данные
+    PRIVACY_CHANGE_PASS: Сменить пароль
+    PRIVACY_PASSWORD_CHANGED: Пароль изменен
+    PRIVACY_SAVE: Сохранить
+    TERMS_OF_USE_MIXMARKET: Условия работы с Mix Маркетом
+    TERMS_CONFIRMED: Условия работы с Mix Маркетом подтверждены
+    PHONE_LABEL: Телефон
+    PHONE_REQUIRED: Введите телефон
+    PHONE_NOT_VALID: Некорректный телефон. Пример +7XXXXXXXXXX
+    EMAIL_REQUIRED: Введите адрес электронной почты
+    EMAIL_NOT_VALID: Некорректный email адрес
+    ACTIVITY_HISTORY:
+      ACTIVITY_HISTORY: История активности
+      NOT_FOUND: Ничего не найдено
+      DATE: Дата
+      EMPLOYEE: Сотрудник
+      SERVICE: Сервис
+      STATUS: Статус события
+      EVENT: Событие
+      FILTER_BY:
+        DATE: По дате
+        STATUS: По статусу
+        EMPLOYEE: По сотруднику
+      TYPES:
+        ERROR: Ошибка
+        SUCCESS: Успешно завершен
+        COMPLETE: Завершен
+    NOTIFICATIONS:
+      NOTIFICATIONS: Оповещения
+      ADD_CONTACT_BUTTON_LABEL: Добавить контакт
+      CONTACT: Контакт
+      ORDER_CREATED: Создан новый заказ
+      ORDER_CANCELLED: Заказ отменен
+      ORDER_CHANGED: Заказ изменен
+      ORDER_PROCESSING: Заказ подтвержден поставщиком
+      BILL_OUT: Счет выставлен
+      ORDER_DONE: Заказ успешно завершен
+      ORDER_REQUEST_ACCEPT: Новый отклик на заявку
+      ORDER_PRICE_CHANGE: Мой поставщик изменил цены
+      SAVE_BUTTON_LABEL: Сохранить
+      CHANGES_SAVED: Изменения сохранены
+      CONTACT_ADDED: Контакт добавлен
+      CONTACT_REMOVED: Контакт удален
+      MERC_STOCK_EXPIRY: Просроченная продукция
+      MERC_VSD: Непогашенные ВСД
+    INTEGRATION:
+      INTEGRATION: Интеграция
+      SERVICE: Сервис
+      NAME: Название
+      ACTIVITY: Активность
+      TERM: Срок действия лицензии
+      LEFT: Осталось
+      EXPIRED: Закончилась
+      DAY: день
+      DAYS: дней
+      DAYZ: дня
+      DAYS_AGO: дня назад
+      AGO: назад
+      MAIL_ROBOT: Почтовый робот
+      MERCURY: Меркурий
+      TERM_EXPIRED: срок действия истёк
+      BACK_TO_SERVICES: Назад к сервисам
+      INTEGRATION_MODE: Режим интеграции
+      MODE_AUTO: Автоматический
+      MODE_SEMI_AUTO: Полуавтоматический
+      MODE_MANUAL: Ручной
+      MODE_MANUAL_DESC: Формирование накладных выполняется пользователем
+      MODE_SEMI_DESC: Накладные создаются автоматически по настройкам интеграции и
+        сопоставления товаров
+      MODE_AUTO_DESC: Накладные создаются автоматически по настройкам интеграции и
+        сопоставления товаров, а так же производится выгрузка в учетную систему
+      SAVE: Сохранить
+      RESET: Сброс
+      MAIN_BUSINESS: Главный бизнес
+      MAIN_BUSINESS_COMPOSITES: Главный бизнес для сопоставления
+      BUSINESS_COMPOSITES_USES: Используют сопоставление главного бизнеса
+      UPLOAD_PARAMS: Подключение и параметры выгрузки
+      UTM_PARAMS: Настройки УТМ
+      OBJECT_WHITE_SERVER: Объект White Server
+      AUTO_CONVERT: Автоматическая конвертация кодировки
+      UNLOAD_INVOICES: Выгружать накладные с последующим проведением
+      VAT_RATE: Ставка НДС
+      VAT_DEFAULT: Будет использована указанная ставка, если она не задана в сопоставлении
+      IIKO_CONNECTION_LINK: Ссылка для подключения к iiko Office
+      EGAIS_CONNECTION_LINK: Ссылка для подключения к УТМ
+      TILLYPAD_CONNECTION_LINK: Ссылка для подключения к Tillypad
+      SERVER_LINK: Адрес сервера
+      SERVER_LINK_UTM: Адрес УТМ
+      POSTER_APP_ID: Poster Application Id
+      POSTER_APP_SECRET: Poster Application Secret
+      POSTER_ACCESS_TOKEN: Poster Access Token
+      AUTO_UNLOAD_INVOICE: Выгружать накладные с последующим проведением
+      VERIFY: Проверка
+      RECEIVE_TOKEN: Получить токен
+      EMPTY_VALUE: Введите значение
+      SAVE_VALUES: Необходимо сохранить настройки
+      CONNECT_LOGIN: Логин пользователя для подключения
+      CODE_FSRAR: Код ФСРАР
+      LOGIN: Логин
+      PASSWORD: Пароль
+      CONNECT_PASSWORD: Пароль пользователя для подключения
+      VETIS_API_KEY: APIKey ВетисAPI
+      VETIS_LOGIN: Логин для «Ветис»
+      VETIS_PASSWORD: Пароль для «Ветис»
+      MERCURY_LOGIN: Логин для кабинета Меркурия
+      MERCURY_PASSWORD: Пароль для кабинета Меркурия
+      ORGANIZATION_GUID: GUID предприятия
+      SUBJECT_GUID: GUID субъекта в реестре РСХН
+      BACK_TO_ROBOTS: Назад к роботам
+      ENABLED: Включен
+      DISABLED: Выключен
+      ROBOT: Робот
+      MAIL_ROBOTS: Почтовые роботы
+      CREATE_ROBOT: Создать робота
+      ORGANIZATION: Организация
+      EMAIL: Email адрес
+      STATUS: Статус
+      EDIT_DATE: Дата изменения
+      SERVER_TYPE: Тип сервера
+      SERVER_ADDRESS: Адрес сервера
+      PORT: Порт
+      'YES': Да
+      'NO': Нет
+      ROBOT_LANG: Язык робота
+      DESTROY: Уничтожить
+      SELECTED_BUSINESS: Вы изменили интеграцию по умолчанию
+      SAVED_SETTING: Настройки сохранены
+      INT_MODE_AUTO: Автоматический
+      INT_MODE_MANUAL: Ручной
+      INT_MODE_SEMIAUTO: Полуавтоматический
+      ROBOT_CREATED: Робот создан
+      ROBOT_DELETED: Робот уничтожен
+      ROBOT_UPDATED: Робот редактирован
+      CREATE: Создать
+      SUCCESS_CONNECT: Подключено успешно
+      IIKO_CONNECT_EXAMPLE: 'Пример: http://ваш_домен.ru:8080/resto/api'
+      EGAIS_CONNECT_EXAMPLE: 'Пример: http://ваш_домен.ru:9002/'
+      ROBOT_REQUIRED_FIELDS: "*Такие поля как Адрес сервера, Порт, Email адрес, Пароль
+        обязательны для заполнения"
+      NO_LICENSE: Нет лицензий
+      SELECT_ALL: Выбрать все
+      SEARCH_BY_NAME: Поиск по названию
+      LICENSE_EXPIRED: Активируйте лицензию. Обратитесь к менеджеру.
+      SERVICE_NOT_ACTIVE: Данный сервис недоступен. Обратитесь к менеджеру.
+      STORE_HOUSE_VERSION: Версия StoreHouse
+      NEED_INVOICE: Проверка на наличие Счета-Фактуры
+      CREATING_WAYBILL_MOVE: Создание и выгрузка накладной перемещения
+  ANALOGS:
+    PRODUCT: Товар
+    ARTICLE: Артикул
+    VENDOR: Поставщик
+    PRICE: Цена
+    ADD: Добавить
+    REMOVE: Убрать
+    SORT: Сортировать по
+    PRODUCTS: Товары
+    GROUPS: Группы аналогов
+    COUNT: Кол-во аналогов
+    CHANGES_SAVED: Изменения сохранены
+    CONFIRM_ORDERS: Заказы оформлены
+    CLEAR_ORDERS: Заказы очищены
+    TO_EDI: К документу
+    TO_ORDER: К заказу
+    SETTING:
+      TITLE: Настройка
+      COUNT_TRANSLATIONS:
+        R_PLURAL: аналога
+        PLURAL: аналогов
+        SINGULAR: аналог
+      CANCEL: Отменить
+      SAVE: Сохранить
+      DELETE: Удалить
+    NOT_DATA: Список аналогов пуст
+    NOT_MOVED_MAIN_ANALOG: Данный товар не может быть откреплен пока не установлены
+      коэффициенты
+  SUPPLIERS_LAZY:
+    NAME: Наименование
+    LOCATION: Расположение
+    CONTACTS: Контакты
+    COUNT_PRODUCTS: Всего товаров
+    AVAILABLE_PRODUCTS: Доступно товаров
+    NOT_DATA: Поставщики не найдены
+    CREATE: Создать поставщика
+    PRICE_LIST: Прайс-лист
+    MODAL:
+      ADD: Добавить поставщика
+      ADD_CONTACTS: Добавить контакт
+      EDIT_CONTACT: Редактировать контакт
+      ADD_CONTACT_SUB: Добавьте адрес электронной почты или номер телефона для получения
+        оповещений
+      EDIT: Редактирование карточки поставщика
+      DELETE: Удалить поставщика
+      DELETE_CONTACT_BTN: Удалить контакт
+      SETTING: Дополнительные настройки
+      INFO: 'Укажите информацию о поставщике:'
+      SETTING_INFO: 'Укажите дополнительную информацию о поставщике:'
+      NAME: Название организации
+      UR_ADDRESS: Юридический адрес
+      CONTACT: Контактное лицо
+      INN: ИНН
+      EMAIL: Адрес электронной почты
+      EMAIL_TITLE: Email
+      PHONE: Телефон
+      WARNING_SETTING: Для данного поставщика не установлены дополнительные настройки.
+        Хотите установить?
+      SKIP: Пропустить
+      SET: Да, установить
+      MIN_SUM: 'Минимальная сумма заказа:'
+      CURRENCY_FOR_PRICE: В валюте по прайс-листу
+      DELIVERY_PRICE: Стоимость доставки
+      DELIVERY_DISCOUNT_PERCENT: Скидка на доставку (%)
+      DISCOUNT_PRODUCT: Скидка на товары (%)
+      BACKWARDS: Назад
+      DELIVERY_DAYS: Дни недели для доставки
+      DAYS:
+        MONDAY: Пн
+        TUESDAY: Вт
+        WEDNESDAY: Ср
+        THURSDAY: Чт
+        FRIDAY: Пт
+        SATURDAY: Сб
+        SUNDAY: Вс
+      SAVE: Сохранить
+      CANCEL: Отменить
+      SAVED: Изменения сохранены
+      CHECK: Проверка
+      ADD_BTN: Добавить
+      SEND_MESSAGE: Сообщение отправлено
+      DELETE_CONTACT: Удалить контакт?
+      DELETE_CONTACT_SUB: Вы уверены, что хотите удалить контакт
+      ON_CHANGE: Изменить
+      ON_DELETE: Удалить
+      ON_ADD_PICTURE: Добавить
+      CREATED: Поставщик добавлен
+      DELETED: Поставщик успешно удален из системы
+      DELETED_ITEM: Позиция удалена
+      DELETE_ITEM: Удалить позицию?
+      CANCELED_UPDATE_ITEM: Отменить редактирование позиции?
+      CANCELED_UPDATE_ITEM_CONFIRM: Да, отменить
+      'NO': Нет
+      DELETED_ITEM_CONTACT: Контакт удален
+      UPDATED: Данные поставщика обновлены
+      EDIT_PRICE: Редактирование прайс-листа
+      CALL_EDIT_PRICE: Редактировать прайс лист
+      EDIT_CONTACTS: Редактировать контакты и оповещения
+      CLEAR_PRICE: Очистить прайс
+      UNLOAD: Загрузить
+      UPDATE: Обновить
+      ARTICLE: Артикул
+      NAME_PRODUCT: Наименование товара
+      CATEGORY: Категория
+      PRICE: Цена
+      BALANCE: Остатки
+      UNIT: Единица измерения
+      PRODUCT_UNITS: Кратность
+      ERROR_INPUT: Для добавления позиции заполните поля
+      PICTURE_ADD: Фотография добавлена
+      PICTURE_DELETE: Фотография удалена
+      CONTACTS: Контакт
+      NEW_ORDER: Создан новый заказ
+      CANCELED_ORDER: Заказ отменен
+      CHANGED_ORDER: Заказ изменен
+      DONE_ORDER: Заказ завершен
+      TO_SEND_MESSAGE: Хотите отправить письмо?
+      TO_SEND_MESSAGE_SUB: 'По указанному контакту будет отправлено сообщение: «MixCart
+        шлет привет!»'
+      SEND: Отправить
+      SELECT_ALL:
+        TITLE1: Установлена доступность для {{quantity}} позиций
+        TITLE2: Выбрано {{quantity}} позиций на странице, выбрать оставшиеся {{quantityAll}}
+          позиции?
+        UN_TITLE1: Снята доступность с {{quantity}} позиций.
+        UN_TITLE2: Снять доступность с {{quantityAll}} позиций?
+        TO_LINK: Выбрать оставшиеся позиции
+        TITLE: Выбрано все {{quantity}} позиций
+        UN_TITLE: Снять доступность со всех {{quantity}} позиций
+  SUPPLIERS:
+    LINKS: Подключенные поставщики
+    TITLE: Поставщики
+    ANALOGS: Аналоги
+    ADD_SUPPLIER: Пригласить поставщика
+    EDI_STATUS: Электронный документооборот EDI
+    NAME: Название
+    LOCATION: Расположение
+    PARTNERSHIP_STATUS: Статус партнерства
+    BUTTON_PRODUCTS_LABEL: Продукты
+    BUTTON_REMOVE_LABEL: Удалить
+    NO_DATA: Поставщики не найдены
+    STATUSES:
+      PARTNER: Партнер
+      PARTNER_WITHOUT_CATALOG: Партнер. Каталог не назначен
+      PARTNER_PENDING: Ожидает подтверждения
+      PARTNER_REJECTED: Отказался сотрудничать
+    FILTER_BY:
+      BY: Сортировать по
+      NAME: Названию
+      LOCATION: Расположению
+      STATUS: Статусу партнерства
+  EGAIS:
+    INVOICE: Товарные накладные
+    REFERENCES: Справочники
+    TTN:
+      INVOICE_SUCCESS: В раздел 'Интеграция' добавлена накладная
+      NUMBER: "№ ТТН"
+      DATE_CREATE: Дата оформления
+      NUMBER_EGAIS: "№ ЕГАИС"
+      STATUS: Статус
+      VENDOR: Поставщик
+      CONSIGNEE: Грузополучатель
+      PRODUCT:
+        NAME: Наименование
+        PRODUCER: Производитель
+        PLAN: План
+        FACT: Факт
+        PRICE: Сумма
+        QUANTITY: Кол-во
+        QR_CODE: Акцизная марка
+        BAR_CODE: Штрих-код
+      SIDE:
+        NOT_SELECTED: Накладная не выбрана
+        WAYBILL: Накладная
+        COUNT_TRANSLATIONS:
+          R_PLURAL: позиций на сумму
+          PLURAL: 'позиций на сумму '
+          SINGULAR: позиция на сумму
+        RETURN: Возврат
+        CHECK: Проверка
+        EXCISE_STAMPS: акцизных марок
+        STATUS_DATE: дата статуса
+        OF: из
+        ACCEPTANCE: Приемка
+        PARTIALLY_ACCEPTED: Частичная приемка
+        ACCEPTANCES: Осуществить приемку?
+        ACCEPTANCES_MESSAGE1: Подтвердите приемку товара по выбранным позициям.
+        ACCEPTANCES_MESSAGE2: Не выбранные позиции или позиции с измененным количеством
+          товара будут внесены в акт разногласий.
+        CONFIRM: Да, принять
+        CONFIRM_RETURN: Да, вернуть
+        RETURNED: Осуществить возврат?
+        RETURNED_MESSAGE1: Подтвердите возврат всех товаров выбранной ТТН
+        RETURNED_MESSAGE2: Все товарные позиции, содержащиеся в ТТН, будут внесены
+          в акт возврата.
+        GENERATE: сгенерировать накладную
+      MODAL:
+        LINK_SCANNER: Подключите сканер
+        LINK_SCANNER_SUB: Подтвердите, пожалуйста, подключение устройства считывания
+          штрих-кода.
+        LINK_SCANNER_CONFIRM: Да, подключено
+        SCAN_QR_CODE: Просканируйте акцизную марку
+        SCAN_BAR_CODE: Просканируйте штрих код
+        SCANNING_POSITION: Товаров данной позиции просканированно
+        SCANNING: Просканированно товаров
+        NAME: Наименование
+        DELETE: Удалить
+        TO_APPLY: Применить
+        TO_COMPLETE: Завершить
+        OPEN_TABLE_PRODUCT: Перейти к таблице товаров
+        INPUT_COUNT: Введите количество
+        NEXT: Далее
+        SELECT_AN_ACTION: Выберите действие
+        SELECT_AN_ACTION_SUB: У вас есть незавершенная инвентаризация. Выберите действие
+          для продолжения
+    REMAINS:
+      REMAINS: Остатки
+      NAME: Наименование
+      PRODUCER: Производитель
+      MARK: Акцизная марка
+      PRICE: Цена
+      COUNT: Кол-во
+      ON_SUM: на сумму
+      WRITE_OFF: Списание
+      REALIZATION: Реализация
+      INVENTARIZATION: Инвентаризация
+      MATCH: Сопоставить
+      ENTER_WRITE_DATA: Введите данные для списания
+      SELECT_MODE: 'Выберите тип списания:'
+      SCANNER_MODE: Списание с помощью сканера
+      MANUAL_MODE: Ручное списание
+      NEXT: Продолжить
+      ADD_PRODUCT: Добавить товар
+      GO_TO_TABLE: Перейти в таблицу товаров
+      POSITIONS:
+        R_PLURAL: позиций
+        PLURAL: позиций
+        SINGULAR: позиция
+      DESCRIPTION: Описание
+      PRODUCT: Товар
+      BAR_CODE: Штрих-код
+      QUANTITY: Количество
+      FOR_REMAINS: для списания
+      FOR_IMPLEMENTATION: для реализации
+      FOR_INVENTORY: для инвентаризации
+      ADD_PRODUCT_SAVED: Товар успешно добавлен
+    INVENTORY:
+      ACT: Акт №
+      ACT_NUMBER: "№ Акта"
+      CREATED_DATE: Дата создания
+      STATUS: Статус
+      CANCEL: Отменить
+      ACCEPT: Принять
+      DONE: Завершить
+      FOUND_INCONSISTENCIES: Найдено несоответствия
+      ACT_OF_INCONSISTENCIES: Акт несоответствий
+      AUTO_SELECT: Авто-опись
+      ADD_PASS: Добавить опись
+      BACK: Назад
+      SAVE: Сохранить
+      FROM: из
+      PRODUCT_NAME: Наименование товара
+      PRODUCER: Производитель
+      BARCODE: Штрих код
+      BALANCE: Баланс
+      REGISTER: Опись
+      REASON: Причина
+      CURRENT_MODE_SCAN: Продолжить инвентаризацию на текущей описи
+      NEW_MODE_SCAN: Продолжить инвентаризацию в новой описи
+      CREATE_ACT: Создать акт инвентаризации
+      ACTS_SET: Сформировать акты
+      SELECTED: 'Выбрано: '
+      DESCRIPTION: Описание
+      DESCRIPTION_SUB: Укажите причину списания
+    REFERENCES_TAB:
+      REFERENCE: Справочник
+      UPDATED: Обновлен
+      COUNT: Кол-во
+      UNIT: Ед.изм.
+      MATCHING: Сопоставление
+      UPDATE_ALL: Обновить все
+      PRODUCT: Товар
+      PRODUCTS: товара
+      SELECTED: Выбрано
+      RESET_MATCH: Сбросить сопоставление
+      ADD_BARCODE: Добавить штрих код
+      EDIT_BARCODE: Редактирование штрих-кода
+      MATCH_NOMENCLATURE: Сопоставление номенклатуры
+      BACK_TO_REFERENCES: Назад к справочникам
+      VENDOR: Поставщик
+      VENDOR_PRODUCT: Товар поставщика
+      EGAIS_PRODUCT: Товар ЕГАИС
+      COEF: Коэф.
+      CANCEL: Отмена
+      MATCH_VENDORS: Сопоставление поставщиков
+      VENDOR_EGAIS: Поставщик ЕГАИС
+      INN_KPP: ИНН / КПП
+      OGRN: ОГРН
+      PANEL_NOMENCLATURE_MESSAGE: Выделите одну или несколько позиций товаров для
+        установки значений сопоставления или добавление штрих-кода
+      PANEL_VENDORS_MESSAGE: Выделите одну или несколько позиций поставщиков для установки
+        сопоставления
+      PRODUCT_TRANSLATIONS:
+        R_PLURAL: товара
+        PLURAL: товаров
+        SINGULAR: товар
+      VENDOR_TRANSLATIONS:
+        R_PLURAL: поставщика
+        PLURAL: поставщиков
+        SINGULAR: поставщик
+      SELECTED_TRANSLATIONS:
+        R_PLURAL: выбрано
+        PLURAL: выбраны
+        SINGULAR: выбран
+      INFORMATION: Информация
+  FILTER_BAR:
+    ORDER_TYPE: Тип заказа
+    DOCUMENT_TYPE: Тип документа
+    NOMENCLATURE: Номенклатура
+    SUPPLIER: Поставщик
+    SUPPLIER_EGAIS: Поставщик ЕГАИС
+    EMPLOYEE: Сотрудник
+    CURRENCY: Валюта
+    PRODUCT_BAR: Товар
+    UPDATE_DATE: Дата обновления
+    REPORT_DATE: Отчет за даты
+    PERIOD: Период
+    CATEGORY: Категория товара
+    PRICE: Цена
+    FROM: от
+    TO: до
+    BY: По
+    SORT_BY: Сортировать по
+    BY_NAME_ASC: названию А-Я
+    BY_NAME_DESC: названию Я-А
+    BY_EVENT_NAME_ASC: наименованию события А-Я
+    BY_EVENT_NAME_DESC: наименованию события Я-А
+    BY_PRICE_ASC: возрастанию цены
+    BY_PRICE_DESC: убыванию цены
+    BY_SUPPLIER: поставщику
+    BY_EMPLOYEE: сотруднику
+    BY_STATUS: статусу
+    BY_DATE: дате
+    BY_DATE_ASC: 'дате: по возрастанию'
+    BY_DATE_DESC: 'дате: по убыванию'
+    BY_SERVICE: сервису
+    BY_EVENT: событию
+    LOCATION: Местоположение
+    DETECT_AUTOMATICALLY: Определить автоматически
+    APPLY_PRICE: Применить
+    SEARCH_NAME: Поиск по названию
+    SEARCH_NAME_PRODUCT: Поиск продуктов
+    SEARCH_NAME_CONTACTS: Поиск контактов
+    SEARCH_BUSINESS: Поиск по бизнесу
+    NO_SEARCH_BUSINESS: Бизнес не найден
+    SEARCH_NOMENCLATURE_PLACEHOLDER: Поиск по номенклатуре
+    SEARCH_CATEGORY_PLACEHOLDER: Поиск по категории
+    SEARCH_VENDOR_PLACEHOLDER: Поиск по поставщику
+    SEARCH_AGENT_PLACEHOLDER: Поиск по контрагенту
+    SEARCH_EMPLOYEE_PLACEHOLDER: Поиск по сотруднику
+    PRODUCT_SEARCH_PLACEHOLDER: Поиск по продуктам
+    NO_SUPPLIERS: Поставщик не найден
+    NO_AGENT: Контрагент не найден
+    NO_EMPLOYEE: Сотрудник не найден
+    NO_CATEGORY: Категория не найдена
+    CONFIRM_DATE: Подтвердить
+    COLOR: Цвет
+    STATUS_ORDER: Статус заказа
+    VSD: Входящие ВСД
+    VSD_STATUS: Статусы
+    COMPANY_SENDER: Фирма отправитель
+    SEARCH_COMPANY_SENDER: Поиск фирмы отправителя
+    NOSEARCH_COMPANY_SENDER: Фирма отправитель не найдена
+    PRODUCT: По продукции
+    SEARCH_PRODUCT: Поиск продукции
+    NOSEARCH_PRODUCT: Продукт не найден
+    DATE_RANGE: Дата
+    DATE_WAYBILL_RANGE: Дата накладной
+    DATE_EGAIS_TTN_RANGE: Дата ТТН
+    DATE_RECEIVING: Дата получения
+    ACQUIRER: Бизнес
+    STORE: Склад
+    SEARCH_STORE_PLACEHOLDER: Поиск по складу
+    NO_STORE: Склад не найден
+    NOT_DATA: Данные отсутствуют
+    REFRESH: Обновить
+    SERVICE: Сервис
+    WRITE_OFF_TYPES: Основание для списания
+    PRODUCT_ONE: Товар
+    STATUS:
+      TITLE: Статус
+      SUCCESS: Успешно завершен
+      ERROR: Ошибка
+      MAIL_BOT: Почтовый робот
+    DATE_ADD: Дата добавления
+    PRODUCED: Изготовленно
+    EXPIRY_DATE: Срок годности
+    PRODUCTION_NAME: Наименование продукции
+    NUMBER_TTN: Номер ТТН
+    MARK: Марка
+    BAR_CODE: Штрих-код
+    PRODUCTION_DIRECTION: Источник
+    FIND: Поиск
+    NAME: Наименование
+    CONCEPT: Концепция
+    ROLE: Роль
+    RESTAURANT: Ресторан
+  HISTORY:
+    HISTORY: История
+    SUPPLIER: Поставщик
+    CREATION_DATE: Дата создания
+    COMPLETION_DATE: Дата завершения
+    ARE_PENDING: Ожидают подтверждения
+    ARE_UNDER_PROCESS: Выполняются
+    ARE_COMPLETED: Завершены
+    ARE_CANCELED: Отменены
+    SENT_BY_VENDOR: Отправлен поставщиком
+    PENDING_VENDOR_APPROVAL: Ожидает подтверждения поставщика
+    PENDING_CLIENT_APPROVAL: Ожидает подтверждения клиента
+    UNDER_PROCESS: Выполняется
+    COMPLETED: Завершен
+    CANCELED_BY_VENDOR: Отклонён поставщиком
+    CANCELED_BY_CLIENT: Отменен заказчиком
+    UNDER_FORMING: Формируется
+    PARTIALLY_SHIPPED: Частично отгружен
+    REPLENISHMENT_BALANCES: Пополнение остатков
+    SET_INVOICE: Выставлен счет
+    PRE_ORDER: Предзаказ
+    ORDER_NUMBER: "№ Заказа"
+    STATUS: Статус
+    CREATOR: Заказ создал
+    CANCEL: Отменить
+    REPEAT: Повторить
+    FINISH: Завершить
+    PRODUCT: Товар
+    VENDOR_CODE: Артикул
+    QUANTITY: Кол-во
+    PRICE: Цена
+    SUM: Сумма
+    ORDERED: Заказано
+    COMMENTS: Комментарий
+    ORDER_NUM: Заказ №
+    ORDER_NUM_MIXMARKET: Заказ Mix Маркет №
+    DELIVERY_NUM: "№ Поставки"
+    TOTAL_SUM: Общая сумма
+    DELIVERY_DATE: Дата доставки
+    DISCOUNT: Скидка
+    DELIVERY: Доставка
+    MENU: Меню
+    EDIT: Редактировать
+    DOWNLOAD_AS_PDF: Скачать в PDF
+    DOWNLOAD_AS_EXCEL: Скачать в Excel
+    CREATE_TEMPLATE: Создать шаблон
+    CREATED_TEMPLATE: Шаблон успешно создан
+    TO_MESSAGES: К сообщениям
+    CLIENT: Заказчик
+    VENDOR: Поставщик
+    COMMENT: Комментарий к заказу
+    CANCEL_ENTRY: Отменить ввод
+    SAVE: Сохранить
+    ACCEPTANCE_COMPLETED: Приемка завершена
+  EDO:
+    ORDERS_NOT_FOUND: Заказы не найдены
+    ORDER_NOT_FOUND: Заказ не найден
+    EDO_TITLE: Электронный документооборот
+    INVOICES: "№ Накладной"
+    EDO: Документы
+    SUPPLIER: Поставщик
+    CREATION_DATE: Дата создания
+    STATUS_DATE: Дата статуса
+    COMPLETION_DATE: Дата завершения
+    ARE_PENDING: Ожидают подтверждения
+    ARE_UNDER_PROCESS: Выполняются
+    SENT_BY_VENDOR: Отправлен поставщиком
+    ACCEPTANCE_COMPLETED: Приемка завершена
+    COMPLETED: Завершен
+    CANCELED: Отменен
+    ARE_SENT: Отправлены
+    ARE_COMPLETED: Завершены
+    ARE_CANCELED: Отменены
+    PENDING_VENDOR_APPROVAL: Ожидает подтверждения поставщика
+    PENDING_CLIENT_APPROVAL: Ожидает подтверждения клиента
+    CANCELED_BY_VENDOR: Отклонён поставщиком
+    CANCELED_BY_CLIENT: Отменен заказчиком
+    UNDER_FORMING: Формируется
+    PARTIALLY_SHIPPED: Частично отгружен
+    REPLENISHMENT_BALANCES: Пополнение остатков
+    SET_INVOICE: Выставлен счет
+    ORDER_NUMBER: "№ Документа"
+    STATUS: Статус
+    CREATOR: Заказ создал
+    CANCEL: Отменить
+    REPEAT: Повторить
+    FINISH: Завершить
+    PRODUCT: Товар
+    VENDOR_CODE: Артикул
+    QUANTITY: Кол-во
+    PRICE: Цена
+    SUM: Сумма
+    COMMENTS: Комментарий
+    ORDER_NUM: Документ №
+    ORDER_NUM_MIXMARKET: Документ Mix Маркет №
+    TOTAL_SUM: Общая сумма
+    DELIVERY_DATE: Дата доставки
+    DISCOUNT: Скидка
+    DELIVERY: Доставка
+    MENU: Меню
+    EDIT: Редактировать
+    DOWNLOAD_AS_PDF: Скачать PDF
+    DOWNLOAD_AS_XLS: Скачать XLS
+    CREATE_TEMPLATE: Создать шаблон
+    TO_MESSAGES: К сообщениям
+    CLIENT: Заказчик
+    VENDOR: Поставщик
+    COMMENT: Комментарий к заказу
+    CANCEL_ENTRY: Отменить ввод
+    SAVE: Сохранить
+    ADD_PRODUCT: Добавить товар
+    COMPLETE_ACCEPTANCE: Завершить приемку
+    PROCESSING: Выполняется
+    ACCEPTANCE: Приемка
+    PAYMENT: Оплата
+    SENT: Отправлен
+    REJECTED: Отклонен
+    ITEM_LIST:
+      INVOICE: Поставка
+    ALERTS:
+      PROCESSING: Документ отправлен поставщику, ожидайте выполнения
+      PERFORMED: Документ получен поставщиком, ожидайте отправления
+      PARTIALLY_SHIPPED: Перейдите к составу поставки для приемки товара
+      SENT_BY_SUPPLIER: Перейдите к составу поставки для приемки товара
+      ACCEPTANCE_COMPLETED: Поставка по документу получена, ожидайте счета
+    DOWNLOAD_INVOICE: Скачать счет
+  PRE_ORDER:
+    PRODUCT: Товар
+    ARTICLE: Артикул
+    PLAN: План
+    FACT: Факт
+    SUM: Сумма
+    BACK_TO_PREORDERS: Назад к предзаказам
+    OPEN_PANEL_PRODUCTS: Открыть панель товаров
+    COMMENT: Комментарий
+    DELIVERY: Доставка
+    TO_ISSUE: Оформить
+    REPEAT: Повторить
+    REPEAT_ORDER: Повторить заказ
+    FROM: от
+    TO_PREORDER: в предзаказ №{{orderId}}
+    INFO_ORDER: Информация по заказу
+    ANALOGS:
+      VENDOR: Поставщик
+      QUANTITY: Количество
+      COST: Цена
+    UNIQ_PRODUCT_TRANSLATIONS:
+      R_PLURAL: уникального товара
+      PLURAL: уникальных товаров
+      SINGULAR: уникальный товар
+    PRODUCT_TRANSLATIONS:
+      R_PLURAL: товара
+      PLURAL: товаров
+      SINGULAR: товар
+    VENDOR_TRANSLATIONS:
+      R_PLURAL: поставщиков
+      PLURAL: поставщиков
+      SINGULAR: поставщика
+    REGISTRATION: Оформление
+    CANCEL: Отменить
+    CLEAR: очистить
+    CONFIRM_ALL: Оформить все заказы
+    TOTAL_SUM: Общая сумма
+    MIN_SUM: 'Минимальная сумма заказа:'
+    DELIVERY_PRICE: Сумма доставки
+    ADDRESS_DELIVERY: Адрес доставки
+  PRE_ORDERS:
+    NAME: Предзаказ
+    CREATION_DATE: Дата создания
+    CHANGED: Изменен
+    CREATED_BY: Кем создан
+    QUANTITY: Количество
+    AMOUNT: Сумма
+    COMPLETE: Завершить
+    ALL: Все
+    OPENED: Открытые
+    CLOSED: Закрытые
+    STATUS: Статус
+    SORT:
+      CREATED_AZ: "“Кем создан заказ” А-Я"
+      CREATED_ZA: "“Кем создан заказ” Я-А"
+      AMOUNT_AZ: Возрастанию суммы
+      AMOUNT_ZA: Убыванию суммы
+  TEMPLATES:
+    ADD: Добавить
+    CREATE_TEMPLATE: Создать шаблон
+    REMOVE: Убрать
+    ALL_TEMPLATES: Все шаблоны
+    TEMPLATE_CART:
+      IN_TEMPLATE: В шаблоне
+      CANCEL: Отменить
+      SAVE: Сохранить
+    TEMPLATE_LIST:
+      UPDATED_AT: 'Обновлено:'
+      MAKE_ORDER: Заказать
+    NAME_INPUT_PLACEHOLDER: Название шаблона
+    NO_TEMPLATES: Нет шаблонов
+  DIALOGS:
+    CHAT:
+      TO_THE_ORDER: К заказу
+      MESSAGE_INPUT_PLACEHOLDER: Введите сообщение
+      NO_NOTIFICATIONS: Оповещений нет
+    MESSAGES: Сообщения
+    ALL_NOTIFICATIONS: Все оповещения
+    MARK_ALL_READ: Пометить всё прочитанным
+    MIXCART_BOT: MixCart bot
+  EDIT_ORDER:
+    ADD_PRODUCT: Добавить товар
+    SAVE: Сохранить
+    OK: OK
+    TO_ORDER: в заказ №{{orderId}}
+    VENDOR_NAME: "«{{vendorName}}»"
+  EDIT_ORDER_PRODUCT_LIST_ENTRY:
+    COMMENT_PLACEHOLDER: Добавить комментарий
+  HISTORY_ORDER_EDIT:
+    COMMENT_PLACEHOLDER: Добавить комментарий
+  HISTORY_ORDER_EDIT_ITEM_LIST:
+    ADD_PRODUCT: Добавить товар
+  REQUESTS:
+    OPENED_REQUESTS: Открытые
+    ALL_REQUESTS: Все заявки
+    CREATE_REQUEST: Создать заявку
+    REQUEST_CARD:
+      EXECUTIVE: Исполнитель
+      EXECUTIVE_IS_NOT_ASSIGNED: Не назначен
+      OPEN: Открыта
+      CLOSED: Закрыта
+      CREATED: Создана
+      MORE: Подробнее
+      CANCEL_REQUEST: Снять заявку
+      CLOSE_REQUEST: Закрыть
+      CATEGORY: Категория
+    REQUESTS_NOT_FOUND: Заявки не найдены
+  REQUEST_PAGE:
+    ALL_REQUESTS: Все заявки
+    REQUEST_NUMBER: Заявка №
+    STATUS_OPEN: Открыта
+    STATUS_CLOSED: Закрыта
+    STATUS_CONTRACTOR_ASSIGNED: Назначен исполнитель
+    VALID_UNTIL: истекает
+    AMOUNT: Объем закупки
+    FREQUENCY: Периодичность
+    REGULAR: Регулярно
+    ONE_TIME: Разово
+    PAYMENT_METHOD: Способ оплаты
+    CASH: Наличный расчет
+    CASHLESS: Безналичный расчет
+    PAYMENT_DEFERMENT: Отсрочка платежа
+    CONTRACTOR_NOT_SET: Исполнитель не назначен
+    CANCEL_REQUEST: Снять заявку
+    CLOSE_REQUEST: Закрыть
+    VENDOR: Поставщик
+    PRICE: Цена
+    COMMENT: Комментарий
+    ASSIGN: Назначить
+    REVOKE_ASSIGNEE: Снять
+  UNCONFIRMED_VENDOR_ORDER:
+    INTRO: Вам поступил новый заказ. Пожалуйста, просмотрите заказ и скорректируйте
+      его при необходимости.
+    CANCEL_ORDER_START: Отменить
+    CANCEL_ORDER_END: заказ
+    CONFIRM_ORDER: Принять заказ
+    UNSUBSCRIBE: Отписаться
+    UNSUBSCRIBE_FROM: от этой рассылки
+    BACK: Назад
+    SAVE: Сохранить
+    COPYRIGHT: "© 2018 MixCart — ООО «Онлайн Маркет»"
+    BACK_TO_ORDER: К заказу
+  INTEGRATION:
+    RKEEPER: R-keeper
+    IIKO: iiko
+    TILLYPAD: Tillypad
+    POSTER: Poster
+    1C: 1С
+    REQUEST: Заявка
+    SENDER: Отправитель
+    RECIPIENT: Получатель
+    ERROR_SERVICE: Необходимо установить сервис интеграции в настройках
+    NAME: 'Интеграция с '
+    SAVED: Данные сохранены
+    SETTING: Настройте параметры для передачи в
+    ORDER_MIXCART: Номер заказа сделанного в MixCart
+    DELIVERY_NUMBER: Номер поставки отправленной поставщиком
+    SGENAKIAUTO: Сгенерировать накладные автоматически
+    SUPPLIER: Контрагент
+    NUMBER: Номер
+    STATUS: Статус
+    DOCUMENT: Документ
+    ORDER: Заказ
+    DOC_NUMBER_ORDER: По заказу
+    LINK: Сопоставлен с
+    LINKED: Сопоставить
+    MATCHING: Сопоставление
+    NOT_SPECIFIED: Не указан
+    NOT_PRODUCTS: Нет товаров
+    STORE: 'Склад:'
+    WAYBILL: Накладная
+    WAYBILLS_TAB: Накладные
+    DIRECTORIES: Справочники
+    POSITION_ORDER: Позиции в заказе
+    REDIRECT_ORDER: К заказу
+    REDIRECT_REQUEST: К заявке
+    REDIRECT_DOCUMENT: К документу
+    SET_NUMBER_WAYBILL: Задать № поставки
+    ADD_WAYBILL: Добавить накладную
+    NUMBER_WAYBILL: Номер поставки
+    NUMBER_WAYBILL_TEXT: Заданный номер будет использован для формирования накладной
+      при выгрузке в учетную систему
+    SAVE: Сохранить
+    CANCEL: Отменить
+    CANCELED: Отмена
+    UNLOAD: Выгрузить
+    UNLOADS: Выгружается
+    ERROR_UNLOAD: Ошибка выгрузки
+    WAYBILL_TTN: ЕГАИС ТТН
+    WAYBILL_MOVING: Перемещение
+    RESET: Сброс
+    RESET_WAYBILL: Сбросить накладную?
+    RESET_CONFIRM: Да, сбросить
+    DELETE: Удалить
+    DELETE_PRODUCT: Удалить товар?
+    DELETE_PRODUCT_SUBTITLES: Удалить позицию товара из накладной?
+    DELETE_WAYBILL: Удалить накладную?
+    DELETE_WAYBILL_SUBTITLES: Все позиции внутри накладной будут стерты
+    DELETE_CONFIRM: Да, удалить
+    REMOVE: Убрать
+    ADD_POSITIONS: Добавить позиции
+    PRODUCT: Товар
+    FIND_STORE: Поиск склада
+    HAS_ERROR_INPUT: Необходимо заполнить обязательные поля
+    ERROR_SEND_RUN: Ошибка выгрузки накладной
+    SEND_BEGIN: Накладная добавлена в очередь на выгрузку
+    SEND_RUN: Накладная выгружена
+    SENDS_RUN: Накладные добавлены в очередь на выгрузку
+    INVALID_PRODUCT_INVOICE: Вы выбрали товары добавленные в накладную из заказа и
+      учетной системы. Групповые действия не допустимы
+    WITH_STORE: Со склада
+    ON_STORE: На склад
+    TO_SUPPLY: на поставку
+    ON_REQUEST: По заявке
+    PRODUCT_DETAIL:
+      NAME: Детали товара
+      COEF: Коэфф. Mixcart
+      COST: Цена
+      SUM: Сумма
+      WITH_RATE: c НДС
+      UNIT: Единица измерения
+    WAYBILL_DETAILS:
+      NAME: Детали накладной
+      CODE: Код цифр
+      DATE_DOCUMENT: Дата документа
+      NUMBER_INPUT: "№ Входящего документа"
+      FACTOR: "№ Счета-фактуры"
+      PAYMENT_DELAY: Дата отсрочки платежа
+      NOTE: Примечание
+      FIND_AGENT: Поиск контрагента
+    MOVE:
+      ERROR_WAYBILL: Накладная должна быть выбрана только в заказе
+      ERROR_PRODUCT: Вы можете выбрать позиции только в одном заказе
+      BUTTON: Добавить в накладную
+      WAYBILL_SELECT: Выберите накладную и нажмите кнопку «Добавить в накладную»
+      PRODUCT: Товар
+      MOVE: Переместить
+      TO_WAYBILL:
+        R_PLURAL: товара в эту накладную?
+        PLURAL: товаров в эту накладную?
+        SINGULAR: товар в эту накладную?
+      PRODUCTS:
+        R_PLURAL: товара выбрано
+        PLURAL: товаров выбрано
+        SINGULAR: товар выбран
+    CREATE_WAYBILL:
+      BUTTON: Создать накладную
+      MESSAGE1: Вы можете создавать накладные
+      MESSAGE2: не связанные с заказами или
+      MESSAGE3: 'документами для выгрузки в '
+    GOODS:
+      NAME: Наименование
+      AMOUNT: Кол-во
+      SUM_NDS: Сумма с НДС
+      DELIVERY: Доставка
+    WAYBILLS:
+      R_PLURAL: накладные
+      PLURAL: накладных
+      SINGULAR: накладную
+    COMPARISON:
+      NOT_SELECT: Выделите одну или несколько позиций товаров для установки значений
+        сопоставления
+      PRODUCTS_COMPARISON: Сопоставление товаров
+      VAT_RATE: Ставка НДС %
+      PRICE_INCLUDED_RATE: Цена в заказе включает НДС
+      'YES': Да
+      'NO': Нет
+      SUM: Сумма
+      SUM_WITH_RATE: Сумма c НДС
+      NAME: Наименование
+      QUANTITY: Кол-во
+      UNITS: Ед. изм.
+      COEFFICIENT: Коэфф.
+      SUM_WITHOUT_RATE: Сумма б/н
+      VAT: НДС
+      CUSTOMER_DOCUMENT: Сопоставление документа от поставщика
+      CREATE_DATE: Дата создания
+      COMPLETION_DATE: Дата завершения
+      ORDER_NUMBER: "№ Заказа"
+      ORDER_ID: ID Заказа
+      CREATED_BY: Заказ создал
+      COMPARISON_NOMENCLATURE: Сопоставление номенклатуры
+      MAIN_BUSINESS: Главный бизнес
+      FIND: Поиск товара
+      CUSTOMER: Поставщик
+      CUSTOMER_PRODUCT: Товар поставщика
+      PRODUCT: Товар
+      STOCK: Склад
+      SELECTED: Выбрано
+      PRODUCTS: товара
+      DETAILS: Детали
+      COEFFICIENT_FULL: Коэффициент
+      RESET_COMPARISON: Сбросить сопоставление
+      RESET_MESSAGE: Вы уверены что хотите сбросить параметры сопоставления? Все данные
+        будут обнулены
+      YES_RESET: Да, сбросить
+    DICTIONARY:
+      ID: Идентификатор
+      COMMENT: Комментарий
+      UNIT: Единицы измерения
+      CODE: Код
+      TYPE: Тип
+      ACTIVITY: Активность
+      PRODUCT_TYPE: Тип продукта
+      PLACE_PRODUCTION: Место производства
+      NAME: Справочник
+      INFO: Нажмите Загрузить для обновления данных в справочнике из учетной системы
+      ALL: Все справочники
+      REFERENCE: Справочники
+      UPLOAD: Загрузить
+      UPLOAD_ALL: Загрузить все
+      UPDATE: Обновлено
+      COUNT: Кол-во
+      STATUS: Статус
+      PRODUCT_TYPES: Типы продуктов
+      AGENTS: Контрагенты
+      ANENT_SETTING: Выполните настройки контрагента
+      CUSTOMER_IN: Поставщик в MixCart
+      CUSTOMER_WAYBILL: Поставщик в Накладной поставщика
+      CUSTOMER_WAYBILLS: Поставщики в Накладных поставщика
+      NAME_CUSTOMER_WAYBILL: Название из накладной
+      ADD_NAMES_CUSTOMER: Добавить название поставщика
+      ADD_NAMES_CUSTOMER_ERROR: Такое название уже задано
+      STORE_DEFAULT: Склад по умолчанию
+      INCLUDE_TAX: Заказ с НДС
+      INCLUDE_TAX_TITLE: Заказ включает НДС
+      IGNORE_TAX_TITLE: Игнорировать НДС
+      DELAY_DAY: Дней отсрочки платежа
+      STORE: Склады
+      PRODUCTS: Товары
+      NOMENCLATURE: Номенклатура
+      CATAGORIES: Категории
+      PRODUCT_GROUPS: Товарные группы
+      UPDATED: Обновлен
+      ERROR: Ошибка
+      NOT_UPDATED: Не обновлен
+      PRICE_SYNC_RUN: Прайс лист добавлен в очередь на обновление
+      SYNC_RUN: Справочник добавлен в очередь на обновление
+      SYNC_RUN_ALL: Справочники добавлены в очередь на обновление
+      NAMES: Название
+      'YES': Да
+      'NO': Нет
+      VENDOR_WAYBILL: Поставщик в накладной поставщика
+      STORES_REMAINS: Остатки по складам
+      PRODUCT: Товар
+      PRODUCT_TYPE_2: Тип товара
+      BALANCE: Остаток
+      STORE_DEALER: Склады посредника
+      ADD_STORE_DEALER: Добавить склад
+  PRIVACY:
+    NAV:
+      EULA: Пользовательское соглашение
+      PRIVACY_POLICY: Политика в отношении обработки персональных данных
+      HELP: Помощь
+      TESTIMONIALS: Отзывы
+    MODAL:
+      CLOSE: Закрыть
+      PUBLISHING_DATE: Дата публикации
+      OK: OK
+  MY_ORDERS:
+    ORDERS: Заказы
+    PRE_ORDERS: Предзаказы
+    DOCUMENTS: Документы
+LAYOUTS:
+  CLIENT:
+    MARKET: Mix Маркет
+    CREATE_ORDER: Заказать
+    MY_ORDERS: Мои заказы
+    VENDORS: Поставщики
+    MESSAGES: Сообщения
+    HISTORY: История
+    DOCUMENTS: Документы
+    ANALYTICS: Аналитика
+    SETTINGS: Настройки
+    INTEGRATION: Интеграция
+    INTERMEDIAR: Посредник
+    BUSINESS_PROFILE: Бизнес-профиль
+    CHANGE_BUSINESS_PROFILE: Сменить
+    MIXCART: Mixcart
+    COPYRIGHT: 2016—{{currentYear}} MixCart
+    MERCURY: Меркурий
+    EGAIS: ЕГАИС
+    LICENSE_EXPIRE: Срок действия лицензии заканчивается
+    CONTACT_MANAGER: 'Вы можете обратиться к менеджеру по телефону:'
+  HELP: Помощь
+  VIDEOS: Видео инструкции
+  GO_TO_MC1: Перейти к 1.0
+  REVIEWS: Отзывы
+  LOGOUT: Выйти из системы
+  LANGUAGE: Язык
+  SEARCH: Поиск
+  AT_MIXMARKET: по товарам Mix Маркет
+  AT_MY_SUPPLIER_GOODS: по товарам моих поставщиков
+  NOTIFICATIONS_COUNT: Оповещений
+  OF: 6 из {{totalNotifications}}
+  ALL_NOTIFICATIONS: Все оповещения
+  NO_NOTIFICATIONS: Нет оповещений
+MODALS:
+  ADD_PRICE:
+    VENDOR_ADDED: Добавить поставщика
+    VENDOR_ADDED_MESSAGE_1: Ура! Поставщик
+    VENDOR_ADDED_MESSAGE_2: создан.
+    VENDOR_ADDED_MESSAGE_3: Чтобы сделать у него заказ, давайте загрузим его прайс-лист
+    ADD_PRICE_BUTTON_LABEL: Загрузить прайс
+    BACK_BUTTON_LABEL: Назад
+  VENDOR_CARD:
+    VENDOR_CARD: Карточка поставщика
+    EMAIL_LABEL: Адрес электронной почты
+    COMPANY_LABEL: Название организации
+    INN: ИНН
+    CONTACT_NAME: Контактное лицо
+    PHONE_LABEL: Телефон
+    CLOSE: Закрыть
+  REDIRECT_NOTIFICATION_MODAL:
+    TITLE: Внимание
+    MESSAGE: Вы будете переправлены на страницу личного кабинета поставщика
+    CANCEL: Отмена
+    CONFIRM: Перейти
+  DEFAULT_BUTTONS:
+    TEXT_DEFAULT_OK_BUTTON: OK
+    TEXT_DEFAULT_CANCEL_BUTTON: Отмена
+  NEW_SUPPLIER:
+    ADD: Добавить поставщика
+    NOT_FOUND: 'Поставщик не найден. Укажите информацию о нем:'
+    FOUND: 'Поставщик найден. Проверьте его контактные данные:'
+    FOUND_MULTIPLE: 'Найдено несколько поставщиков. Выберите вашего:'
+    INN: ИНН
+    INN_INVALID: ИНН введен неверно
+    TITLE: Пригласить поставщика
+    EMAIL_NOT_VALID: Поле заполнено некорректно
+    NOTE_BEFORE_SEARCH: Укажите email поставщика и мы проверим, работает ли он в нашей
+      системе
+    EMAIL_LABEL: Адрес электронной почты
+    PHONE_LABEL: Телефон
+    PHONE_INVALID: Номер телефона введен неверно. Пример +7XXXXXXXXXX
+    CONTACT_NAME: Контактное лицо
+    COMPANY_LABEL: Название организации
+    FIELD_REQUIRED: Поле обязательно для заполнения
+    CHECK_LABEL: Проверить
+    ADD_LABEL: Добавить
+    BACK_LABEL: Назад
+    SUPPLIER_ADDED: Поставщик успешно добавлен
+  EDIT_SUPPLIER:
+    TITLE: Редактировать поставщика
+    BUTTON_LABEL: Сохранить
+    CONTACT_NAME: Контактное лицо
+    COMPANY_LABEL: Название организации
+    EMAIL_NOT_VALID: Адрес электронной почты введен неверно
+    ADDRESS_LABEL: Адрес
+    PHONE_LABEL: Телефон
+    INN: ИНН
+    INN_INVALID: ИНН введен неверно
+    EMAIL: Адрес электронной почты
+    FIELD_REQUIRED: Поле обязательно для заполнения
+    PHONE_INVALID: Номер телефона введен неверно. Пример +7XXXXXXXXXX
+  REMOVE_SUPPLIER:
+    TITLE: Удалить поставщика
+    QUESTION: Вы уверены, что хотите удалить поставщика?
+    BUTTON_CANCEL: Отмена
+    BUTTON_CONFIRM: Удалить
+  CHANGE_PASSWORD:
+    TITLE: Сменить пароль
+    OLD_PASSWORD_LABEL: Старый пароль
+    NEW_PASSWORD_LABEL: Новый пароль
+    REPEAT_NEW_PASSWORD_LABEL: Повторите новый пароль
+    BUTTON_LABEL: Сменить
+    PASSWORD_REQUIRED: Введите пароль
+    PASSWORDS_MISMATCH: Пароли не совпадают
+    PASSWORD_NOT_VALID: Для пароля необходимо использовать только буквы латинского
+      алфавита, не менее 6 символов, в том числе цифры/заглавные буквы/ спецсимволы
+  CHANGE_PHONE:
+    TITLE: Подтвердите смену телефонного номера
+    INFO: 'Код выслан на номер: '
+    CALL_TO_ACTION: Введите код из SMS-сообщения
+    PASSCODE_LABEL: Код
+    BUTTON_LABEL: Подтвердить
+    PASSCODE_REQUIRED: Введите код
+    SEND_PASSCODE:
+      BUTTON_LABEL: Выслать код повторно
+      FIRST_SECONDS_LETTER: с
+  CORRECT_PHONE:
+    TITLE: Введите новый номер телефона
+    PHONE_LABEL: Номер телефона
+    BUTTON_LABEL: Подтвердить
+    PHONE_REQUIRED: Введите номер телефона
+    PHONE_INCORRECT_PATTERN: Некорректный телефон. Пример +7XXXXXXXXXX
+    CANCEL_BUTTON_LABEL: Отмена
+  STAFF:
+    EDIT_TITLE: Редактировать профиль
+    NEW_TITLE: Добавить сотрудника
+    REMOVE_TITLE: Удалить сотрудника
+    REMOVE_QUESTION: Вы уверены что хотите удалить сотрудника?
+    FIELD_REQUIRED: Заполните поле
+    CHOOSE_ROLE: Заполните поле
+    INCORRECT_EMAIL: Некорректный email адрес
+    INCORRECT_PHONE: Некорректный номер телефона
+    SAVE_BUTTON_LABEL: Сохранить
+  REMOVE_STAFF:
+    BUTTON_CANCEL: Отмена
+    BUTTON_CONFIRM: Удалить
+  COMMENT:
+    ENTER: Напишите комментарий
+    LABEL: Ваш комментарий
+    SAVE: Сохранить
+  ADD_NOTIFICATION_CONTACT:
+    TITLE: Добавить контакт
+    EMAIL_LABEL: Адрес электронной почты
+    INFO: Добавьте адрес электронной почты для получения оповещений
+    BUTTON_SAVE_LABEL: Сохранить
+    EMAIL_REQUIRED: Введите email адрес
+  CREATE_REQUEST:
+    URGENT: Срочный заказ
+    CATEGORY: Категория товара
+    CREATE_REQUEST: Создание заявки
+    PRODUCT_LABEL: Что вы хотите купить?
+    AMOUNT: Объем закупки, кг
+    FREQUENCY: Частота закупки
+    ONE_TIME: Разово
+    DAILY: Ежедневно
+    WEEKLY: Каждую неделю
+    MONTHLY: Каждый месяц
+    PAYMENT_METHOD: Способ оплаты
+    CASH: Наличный расчет
+    CASHLESS: Безналичный расчет
+    DEFERMENT: Отсрочка платежа
+    COMMENT: Комментарий
+    CREATE: Создать
+    ERRORS:
+      PRODUCT_NAME_REQUIRED: Укажите имя
+      CATEGORY_REQUIRED: Выберите категорию
+      AMOUNT_REQUIRED: Укажите объем
+      PAYMENT_METHOD_REQUIRED: Выберите тип оплаты
+      DEFERMENT_REQUIRED: Укажите желаемую отсрочку платежа
+  REQUEST_ACTION:
+    CLOSE_REQUEST:
+      TITLE: Закрыть заявку?
+      MESSAGE: Вы уверены, что хотите закрыть заявку?
+      CONFIRMATION_BUTTON: Закрыть
+    CANCEL_REQUEST:
+      TITLE: Снять заявку?
+      MESSAGE: Вы уверены, что хотите снять заявку?
+      CONFIRMATION_BUTTON: Снять
+    SET_CONTRACTOR:
+      TITLE: Назначить исполнителем?
+      MESSAGE: Вы уверены, что хотите назначить поставщика исполнителем и начать сотрудничество?
+      CONFIRMATION_BUTTON: Да, назначить
+    REMOVE_CONTRACTOR:
+      TITLE: Снять с исполнения?
+      MESSAGE: Вы уверены, что хотите снять поставщика с исполнения заявки?
+      CONFIRMATION_BUTTON: Снять
+  ADD_PRICE_FOR_VENDOR:
+    INITIAL_STEP:
+      TITLE: Загрузка прайса
+      SUBTITLE: После загрузки прайс-листа пройдите несколько простых шагов для его
+        обработки
+      STEPS:
+        '0': Укажите столбец содержащий артикул или другое поле, по которому будет
+          производится поиск дублей
+        '1': Выберите столбец с наименованием товара
+        '2': Выберите столбец с ценой
+        '3': Выберите столбец с единицей измерения
+        '4': Выберите столбец с кратностью минимального объема закупки
+        '5': Выберите валюту прайс-листа
+        '6': Удалите дублирующиеся товары, если они есть и просмотрите результат загрузки
+      TIP: Будут загружены только товары, для которых указаны наименование и цена.
+        Остальные строки не будут загружены.
+      CHOOSE_FILE: Выбрать файл
+    CHOOSE_SPECIFIC_FIELD:
+      TITLE: Загрузка прайса
+      TITLE_SPAN: шаг {{ currentStep }} из 7
+      STEP_NAMES:
+        '0':
+          BEGINNING: Выберите столбец с
+          ARTICLE: артикулом товара
+          OR: или
+          ANOTHER: другим
+          END: значением, по которому будет выполнен поиск дублей
+        '1':
+          BEGINNING: Выберите столбец с
+          PRODUCT_NAME: наименованием товара
+        '2':
+          BEGINNING: Выберите столбец с
+          PRODUCT_ED: единицей измерения
+        '3':
+          BEGINNING: Выберите столбец с
+          PRODUCT_PRICE: ценой товара
+        '4':
+          BEGINNING: Выберите столбец с
+          PRODUCT_UNITS: кратностью
+          ENDING: минимального объема закупки товара
+      SELECTED_COLUMN_NAME:
+        NAME: Наименование
+        ARTICLE: Артикул
+        UNIT: Единица измерения
+        PRICE: Цена
+      SKIP_STEP_TIP: Если в прайс-листе нет подходящего столбца, то поиск дублей будет
+        выполнен по наименованию товара, а этот шаг можно пропустить
+      OTHER_STEPS_TIP: Будут загружены только товары, для которых указано наименование
+        и цена. Остальные строки не будут загружены
+      BACK: Назад
+      SKIP: Пропустить
+      NEXT: Далее
+      EMPTY_PRICE: Прайс пуст
+    CHOOSE_FIELD_FOR_DUPLICATES_SEARCH:
+      TITLE: Загрузка прайса
+      TITLE_SPAN: шаг {{ currentStep }} из 7
+      REMOVE_DUPLICATES: Устраните дубли для выполнения обработки
+      THERE_IS_DUPLICATES: В вашем файле есть дублирующиеся товары. Пожалуйста удалите
+        их.
+      REMOVE_DUPLICATES_BUTTON: Удалить дубли, оставив первую позицию в каждой группе
+      ALL_DUPLICATES_ARE_REMOVED: Все дубли были удалены
+      ARTICLE: Артикул
+      PRODUCT_NAME: Наименование товара
+      PRICE: Цена,
+      UNITS_AKA_ED: Единица измерения
+      TIP: Прежде чем обработать прайс-лист уберите найденные дубли оставив по одной
+        позиции в каждой группе
+      BACK: Назад
+      PROCESS: Обработать
+      NO_DUPLICATES: Дубликаты не найдены
+      CONFIRMATION_EXIT: Прайс ещё не загружен. Вы точно хотите уйти со страницы?
+    CANCEL_PRICE_UPLOADING:
+      TITLE: Прервать загрузку
+      MESSAGE: Весь прогресс будет сброшен, продолжить?
+      CONFIRM: Прервать
+      CANCEL: Отмена
+    CHOOSE_CURRENCY:
+      TITLE: Загрузка прайса
+      STEP_NUMBER: шаг {{ currentStep }} из 7
+      INSTRUCTIONS: Выберите валюту прайс-листа для выполнения обработки
+      TIP: Будут загружены только товары, для которых указано наименование и цена.
+        Остальные строки не будут загружены
+      BACK: Назад
+      NEXT: Далее
+    PRICE_LOADED:
+      TITLE: Загрузка прайса
+      TITLE_SPAN: шаг {{ currentStep }} из 7
+      INSTRUCTION: Пожалуйста проверьте загруженный прайс
+      ARTICLE: Артикул
+      PRODUCT_NAME: Наименование
+      PRICE: Цена
+      UNITS_AKA_ED: Единица измерения
+      TIP: Можете проверить результат загрузки прайс-листа и удалить лишние позиции
+        если они имеются
+      DONE: Готово
+      NO_PRODUCTS: Продукты не найдены
+  LICENSE_EXPIRED:
+    TITLE: Внимание!
+    EXPIRED_AT: Срок действия лицензии закончился {{ expirationDate }}
+    LICENSE_REQUIRED: Для активации данного бизнес-профиля свяжитесь с нами по телефону
+    INSTRUCTIONS: 'Вы можете обратиться к менеджеру MixCart по телефону:'
+  ACTIVITY_DETAILS:
+    TITLE: Детали события
+    CODE: Код события
+    DESCRIPTION: Описание
+    CLOSE: Закрыть
+COMPONENTS:
+  NOTIFICATION:
+    ORDER_CHANGES_SAVED:
+      SAVED: Изменения заказа сохранены
+    PRODUCT_ADDED:
+      ADDED: Товар добавлен в корзину
+    ORDER_REGISTERED:
+      SET_DELIVERY_DATE: Укажите дату доставки
+      SET_DELIVERY_DATE_FOR_ALL: Укажите дату доставки и наберите минимальную сумму
+        заказа для всех заказов
+      MIN_ORDER_TOTAL_PRICE_ERROR_HEADER: Не достигнута минимальная сумма заказа
+      MIN_ORDER_TOTAL_PRICE_ERROR_ALL: Некоторые заказы не были оформлены, т.к. не
+        достигнута минимальная сумма заказа или не указана дата доставки
+      MIN_ORDER_TOTAL_PRICE_ERROR_ONE: Не хватает {{costToMinTotalPrice}} до минимальной
+        суммы заказа у этого поставщика
+      REGISTERED: Заказ успешно оформлен
+      REGISTERED_ALL: Все заказы успешно оформлены
+      NO_PRODUCTS: В заказе нет товаров. Добавьте товары в заказ.
+      SOME_REGISTERED: Заказы {{registeredCount}} из {{totalOrdersCount}} успешно
+        оформлены
+    ORDER_ACTION:
+      ORDER_SAVED:
+        TITLE: Заказ успешно сохранен
+      ORDER_REPEATED:
+        TITLE: Заказ №{{orderId}} в корзине
+        MESSAGE: Из заказа №{{orderId}} в корзину добавлено {{productCount}} товаров
+        MESSAGE_ROW_2_PART_ONE: 'Перейти к '
+        MESSAGE_ROW_2_PART_TWO_LINK: оформлению заказа
+      ORDER_CANCELLED:
+        TITLE: Заказ успешно отменен
+      ORDER_COMPLETED:
+        TITLE: Заказ успешно завершен
+    REQUESTS_ACTION:
+      REQUEST_CREATED:
+        TITLE: Заявка успешно создана!
+        MESSAGE: Срок размещения заявки - 30 дней. Вы также можете снять ее с публикации
+          вручную
+      CONTRACTOR_SET:
+        TITLE: Исполнитель назначен
+        MESSAGE: Поставщику {{vendorName}} отправлен email с подтверждением заявки
+      CONTRACTOR_UNSET:
+        TITLE: Поставщик снят с исполнения
+    PRICE_ADDED:
+      VENDOR_SUCCESSFULLY_ADDED: Прайс успешно добавлен
+      PRICE_SUCCESSFULLY_UPDATED: Прайс успешно изменен
+    EDO_ORDER:
+      SUCCESSFULLY_SAVED: Изменения заказа сохранены
+    SETTINGS:
+      SAVED: Настройки успешно сохранены
+    TEMPLATE:
+      DELETED: Шаблон успешно удален
+      CHANGED: Шаблон успешно изменен
+      CREATED: Шаблон успешно создан
+      RENAMED: Шаблон успешно переименован.
+      NAME_REQUIRED: Введите название шаблона
+  SORT:
+    SORT_BY: Сортировать по
+ERRORS:
+  UnauthorizedHttpException: Неверно введен адрес электронной почты или пароль
+  GENERAL_SERVER_ERROR: Сервер пока не может обработать ваш запрос. Попробуйте позднее
+  INCORRECT_PHONE: Некорректный номер телефона
+  CERTIFICATES: Есть не погашенные сертификаты
+  CERTIFICATE: Сертификат не погашен
+DATEPICKER:
+  FROM: от
+  TO: до
+MESSAGES:
+  SYSTEM:
+    PRODUCT: Товар
+    ARTICLE: Артикул
+    QUANTITY: Кол-во
+    PRICE: Цена
+    SUM: Сумма
+GENERAL:
+  EXAMPLE: Например
+  CONCEPT: Концепция
+  CONCEPTS: Концепции
+  BACK_TO_REFERENCES: Назад к справочникам

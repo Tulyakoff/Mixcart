@@ -1,0 +1,2133 @@
+---
+PAGES:
+  INTERMEDIAR:
+    INTERMEDIAR: Mediator
+    DISTRIBUTION: Distribution
+    CONTROL: Control
+    DELIVERIES: My delivery
+    CREATE_ROUND: Create round
+    NO_ROUNDS: You don&#39;t have a single round
+    CREATE_ROUND_MESSAGE: You can create a round for collecting applications
+    STATUS: Status
+    CREATED_DATE: date of creation
+    CREATED_BY: Created by
+    INIT_EXEC: Start execution
+    FINISH: To complete
+    BACK_TO_DISTRIBUTION: Back to distribution
+    REQUESTS: Applications
+    CLEAR: Clear
+    SEND: Submit
+    DELIVERY: Supply
+    TO_REQUEST: To application
+    PRODUCT: Product
+    PLAN: Plan
+    BALANCE: The remainder
+    ASSIGNED: Assigned
+    DELIVERED: Delivered
+    SUM: Amount
+    ORDERED: Ordered
+    WAITING: Expected
+    ARTICLE: vendor code
+    AMOUNT: amount
+    PRICE: Price
+    CUSTOMER: Provider
+    ORDER: To order
+    QUANTITY: amount
+    SMART_ESTIMATE: Clever estimate
+    SET_ADDRESS_AND_AMOUNT: Indicate the delivery address and the number of items
+    DELIVERY_SET_ADDRESS: Delivery Address
+    DELIVERY_ADDRESS: Delivery address
+    DELIVERY_DATE: delivery date
+    STORE_BALANCE: It remains to order
+    EXCESS: Excess
+    ADD_ADDRESS: Add Address
+    CREATE_STORE: Create a warehouse
+    CHANGES_SAVED: Data changed
+    ADD_SAVED: Warehouse created
+    CANCEL: Cancel
+    SAVE: Save
+    BALANCES: Leftovers
+    STORE_NAME: Warehouse Name
+    STORE_NAME_REQUIRED: Enter warehouse name
+    STORE_ADDRESS: Warehouse address
+    STORE_ADDRESS_REQUIRED: Enter warehouse address
+    LEGAL_ENTITY: Legal name
+    LEGAL_ENTITY_REQUIRED: Enter legal name
+    LEGAL_ADDRESS: Legal address
+    LEGAL_ADDRESS_REQUIRED: Enter your legal address
+    PHONE_NUMBER: Phone number
+    EMAIL: E-mail address
+    STORE_RESTAURANTS: Warehouse Restaurants
+    STORES_EMPTY_LIST: You do not have a single warehouse
+    STORES: Warehouses
+    NAME: Title
+    ADDRESS: Address
+    ADD_VENDORS_MESSAGE: You can add a provider yourself. Or send your link.
+    LOCATION: Location
+    NOT_SELECT_STORE: The data is empty. Choose warehouse location
+    ОF: Of
+    DIRECT_DELIVERIES: Direct deliveries
+    COUNT_REQUEST_TRANSLATIONS:
+      R_PLURAL: applications
+      PLURAL: applications
+      SINGULAR: request
+    COUNT_SENDER_REQUEST_TRANSLATIONS:
+      R_PLURAL: ready for delivery
+      PLURAL: ready for delivery
+      SINGULAR: ready for delivery
+    BALANCE_TRANSLATIONS:
+      R_PLURAL: positions from
+      PLURAL: positions from
+      SINGULAR: positions from
+    ORDERS_LIST: Order list
+    ORDER_ID: Order ID
+    PRODUCT_NAME: Name of product
+    STORES_TRANSLATIONS:
+      R_PLURAL: warehouse
+      PLURAL: warehouses
+      SINGULAR: stock
+    NOT_ENOUGH: Not enough balances for
+    PLAN_SUCCESS: Round plan completed
+    PRODUCTS_TRANSLATIONS:
+      R_PLURAL: goods from
+      PLURAL: goods from
+      SINGULAR: goods from
+    VENDORS_TRANSLATIONS:
+      R_PLURAL: suppliers
+      PLURAL: suppliers
+      SINGULAR: supplier
+    TOTAL_SUM: total amount
+    NOT_SELECTED_ADDRESS: This address is already selected
+    NOT_SELECTED_ADDRESS2: Missing application from selected organization
+    QUANTITY_TOOLTIP: In parentheses indicate the number of goods shipped by direct
+      delivery
+    MY_DELIVERIES:
+      NUMBER_REQUEST: Application No.
+      REQUEST_NUMBER: Application No.
+      BACK_TO_DELIVERIES: Back to my supplies
+      CREATED_DATE: date of creation
+      STATUS: Status
+      RESTAURANT: A restaurant
+      CREATED_BY: Created by
+      CREATED: Created by
+      PRODUCT: Product
+      ARTICLE: vendor code
+      COUNT: Qty
+      PRICE: Price
+      SUM: Amount
+      DETAILS: Details
+      TO_ROUND: To round
+      TOTAL_SUM: total amount
+      DELIVERY: Delivery
+      DISCOUNT: A discount
+      DELIVERY_DATE: delivery date
+      INFORMATION: Information
+      CUSTOMER: Customer
+      COMMENT: Comment
+      SUPPLY: Supply
+      CANCEL: Cancel
+      SORTS:
+        ID: Identifier AZ
+        ID_DESC: Identifier ZA
+        CLIENT: Customer AZ
+        CLIENT_DESC: Customer ZA
+        USER: Created by AZ
+        USER_DESC: Created by Ya-A
+      CANCEL_REQUEST: Cancel delivery?
+      CANCEL_REQUEST_DESCRIPTION: If you cancel the delivery, will all actions be
+        canceled?
+      CONFIRM_CANCEL: Yes cancel
+    SELECT_CATEGORY: Select the category in which you want to make settings
+    CONTROL_TRANSLATES:
+      ROLE: Role
+      ROLES: Roles
+      EMPLOYERS: Employees
+      EMPLOYERS_WITHOUT_ROLES: employees do not have roles
+      FIO: Full name
+      RESTAURANT: A restaurant
+      SELECT_ROLE: Choose a role
+      SELECT_RESTAURANT: Choose a restaurant
+      ADD_EMPLOYEE: Add Employee
+      ADD_ROLE: Add Role
+      ADD_RESTAURANT: Add Restaurant
+      TEMPLATES: Patterns
+      TEMPLATES_PLURAL: Templates
+      TEMPLATES_UNASSIGNED: No template assigned
+      CREATE_TEMPLATE: Create Template
+      TO_TEMPLATE: To template
+      NAME: Title
+      NO_EMPLOYEE: You have no employees
+      ADD_EMPLOYEE_OR_LINK: You can add an employee yourself. <br /> Or send your
+        link.
+      ADD_EMPLOYEE_MESSAGE: 'Fill in the required fields such as: Full Name, Email
+        address and telephone. To add an employee.'
+      FULLNAME: Full name
+      FULLNAME_REQUIRED: Enter full name
+      EMAIL: E-mail address
+      PHONE: Phone
+      ADD: Add
+      SAVE_CHANGED: Save changes
+      CANCEL_CHANGED: cancel changes
+      'YES': 'Yes'
+      'NO': Not
+      CUSTOMERS: Suppliers
+      CUSTOMERS_PLURAL: suppliers
+      DELEGATE: Delegate
+      TYPE: Type of
+      WARNING: Attention!
+      DELEGATE_CONFIRM: Are you sure you want to delegate supplier management rights
+        to these restaurants? All current settings will be canceled.
+      DELEGATE_BUTTON_CONFIRM: Yes, delegate
+      EMPLOYEE_INFO: Employee Information
+  MERCURY:
+    PRODUCT_NAME: Product Name
+    PRODUCT_SENDER: Company sender
+    STATE: Status
+    QUANTITY: Volume
+    OUTPUT_DATE: Developed by
+    ISSUE_DATE: Decorated
+    NOT_CERTIFICATES: No certificates
+    CERTIFICATE: Certificate
+    CERTIFICATES: Certifications
+    PRODUCTS_MAGAZINE: Product magazine
+    REFERENCES: Directories
+    ORDER_ID: room
+    ORDER_STATUS: Certificate status
+    CUSTOMER: Provider
+    VSD_COUNT: Qty
+    TOTALS: Total amount
+    CERTIFICATES_OUT_OF_DOCS: Certificates outside of documents
+    RETURN: Return
+    REPAY: To repay
+    PARTIAL_ACCEPTANCE: Partial acceptance
+    PRINT_FORM: Printing form
+    CERTIFICATE_DETAILS: Certificate Details
+    ORDER_DETAILS: Order Details
+    COUNTRY_OF_ORIGIN: Country of origin
+    PRODUCT_MANUFACTURER: Product manufacturer
+    WAYBILL: Waybill
+    WAYBILL_DATE: Bill of lading date
+    VEHICLE_NUMBER: Car number
+    VETERINARY_EXAM: Veterinary Expertise
+    WELL_BEING_ZONE: Well-being of the area
+    SPECIAL_NOTES: Special Marks
+    MESSAGE_1: Selected
+    MESSAGE_2: in order
+    MESSAGE_3: pay off everything?
+    REPAY_ALL: Redeem All
+    SELECT_ALL: Choose all
+    REPAY_NO_INVOICE: You
+    REPAY_SELECTED: Redeem selected
+    CLIENT: Customer
+    COMMENT: Comment
+    ACCEPTANCE_QUANTITY: amount
+    CAUSE: Reason for compilation
+    DESCRIPTION: Mismatch description
+    REPAY_SUCCESS_SINGLE: Certificate Redeemed
+    REPAY_SUCCESS_MORE: Certificates canceled
+    SYNC_END: Data synchronized
+    NOT_SYNC: not carried out
+    SYNC_START: Next sync
+    CONDITION_ICON_TITLE_1: These products require increased attention according to
+      the rules of regionalization.
+    CONDITION_ICON_TITLE_2: Products arriving from a disadvantaged area
+    INCOMING_CERTIFICATE:
+      R_PLURAL: incoming
+      PLURAL: incoming
+      SINGULAR: incoming
+    REPAY_NO_CERTIFICATE:
+      R_PLURAL: issued certificates
+      PLURAL: issued certificates
+      SINGULAR: issued certificate
+    CERTIFICATES_TRANSLATIONS:
+      R_PLURAL: certificate
+      PLURAL: certificates
+      SINGULAR: certificate
+    REQUIRED: Required field
+    MAX_VALUE: The value cannot be greater than the maximum
+    MAX: MAX
+    INFO: Information
+    PRINT_PDF: PDF Printable
+    VSD_DETAILS: VSD Information
+    SENDER: Sender
+    RECIPIENT: Recipient
+    PRODUCTS: Products
+    TRANSPORT: Transport
+    TRANSPORT_INVOICE: Waybill
+    VSD_AUTHOR: Who wrote out the IRR
+    OTHER_INFO: other information
+    VSD_STATE: VSD Status
+    VSD_ID: VSD Number
+    VSD_DATE: Date of execution of the IRR
+    VSD_FORM: VSD form
+    VSD_VET_FORM: Type VSD
+    ORGANIZATION_NAME: Business name
+    PRODUCT_OWNER: Business entity (product owner)
+    PRODUCTS_TYPE: Product type
+    PRODUCTS_FORM: Type of product
+    PRODUCTS_IN_NOMENCLATURE: Products in the manufacturer&#39;s nomenclature
+    PRODUCTION_DATE: Production Date
+    PRODUCTS_SHELF_LIFE: Product Expiration Date
+    PERISHABLE_PRODUCTS: Perishable products
+    LIST_OF_MANUFACTURERS: List of Product Manufacturers
+    LABORATORY_RESULT: Laboratory test result
+    TRANSPORT_TYPE: Type of transport
+    CAR_NUMBER: Number of the car
+    STORAGE_METHOD: Storage method
+    NUMBER: room
+    DATE: date
+    FULL_NAME: Full name
+    POSITION: Position
+    WELL_BEING_AREA: Well-being of the area
+    VET_EXPERTISE: Was vetsanekspertiza carried out
+    SPECIAL_MARKS: Special Marks
+    DIRECTION:
+      INCOMING: Incoming
+      OUTGOING: Outgoing
+    OPERATION:
+      ERROR: Operation error
+      EXTINGUISHED: Paid off
+      RETURNED: Returned
+      PARTIAL_ACCEPTED: Partially accepted
+    REGIONALIZATION:
+      NAME: Regionalization
+      CONDITIONS: Confirm all the necessary conditions.
+      RECIPIENT: Recipient
+      PRODUCTS: Products
+      AUTO_MODE: Confirm conditions in automatic mode?
+      FILL_IN_AUTOMATICALLY: Auto complete
+      NAME_OF_THE_DISEASE: Disease name
+      OPTIONS: Of options
+      STATUS: Status
+      DISEASE: Disease
+      CANCEL: Cancel
+      CONFIRM_RETURN_POLICY: Confirm Return Terms
+      CONFIRM: Yes continue
+      ATTENTION: Attention!
+      ATTENTION_MESSAGE1: If you continue, the first versions of each group of questions
+        will be selected. In this case, the absence of contradictions in the selected
+        conditions is not guaranteed.
+      ATTENTION_MESSAGE2: You assume responsibility for the information provided.
+      MAIN: Main
+      OR: Or
+    ACCEPTANCE_CAUSE: Indicate the reason for drawing up the act and a brief description
+      of the non-compliance
+    REFERENCES_PAGE:
+      REFERENCE: Directory
+      LOAD: Download
+      LOAD_ALL: Download all
+      UPDATED: Updated
+      QUANTITY: Qty
+      STATE: Status
+      STATE_UPDATED: Updated
+      STATE_NOT_UPDATED: Not updated
+      ERROR: Mistake
+      ERROR_LOAD: loading error
+      PANEL_INFO: Click Download to update the data in the directory from the accounting
+        system.
+      PRODUCT_NAME: product name
+      BACK_TO_REFERENCES: Back to directories
+      ADD_PRODUCT: Add line items
+      NAME: Title
+      TYPE: Type of
+      ARTICLE: vendor code
+      ACTIVITY: Activity
+      CANCEL: Cancel
+      SAVE: Save
+      ADD: Add
+      PRODUCT_TYPE: Product type
+      PRODUCT_SUBTYPE: Products
+      PRODUCT_FORM: Type of product
+      FORM: View
+      GOST: GOST
+      PACKING_DETAILS: Packaging Details
+      UNITS_PER_PACK: Number of units per pack
+      UNITS: unit of measurement
+      PRODUCER_ENTITY: Manufacturing firm
+      PRODUCER_ENTERPRISE: Manufacturing enterprise
+      EDIT_PRODUCTS: Position editing
+      EDIT_PRODUCT: Edit line item
+      DELETE: Delete
+      ADD_PRODUCER_ENTERPRISE: Add manufacturer enterprise
+      VOLUME_PER_PACK: Unit Volume Per Package
+      PRODUCT_DETAILS: Product Details
+      ARTICLE_MANUFACTURER: Manufacturer Part Number
+      PERISHABLE_PRODUCTS: Perishable products
+      SHELF_LIFE: Shelf life
+      SHELF_LIFE_INFO: "(1g = year; 1m = month; 1d = day; 1h = hour)"
+      MANUFACTURERS: Manufacturers
+      PACKING: Packing
+      TECHNICAL_CARD: Technical card
+      PACKING_TYPE: Type of packaging
+      UNIT_OF_VOLUME_PER_PACK: Unit of measure for unit packaging
+      ADD_INGREDIENT_MESSAGE: Add the ingredient to your product according to Mercury&#39;s
+        nomenclature.
+      ADD_INGREDIENT: Add ingredient
+      VOLUME: Volume
+      'YES': 'Yes'
+      'NO': Not
+      EMPTY_PRODUCTS_LIST: No products
+      SELECT_INGREDIENT: Choose ingredient
+      SELECT_PRODUCER: Choose a manufacturer
+      PRODUCTION_CREATED: Products created
+      PRODUCTION_UPDATED: Products edited
+      TRANSPORTS: Vehicles
+      TRANSPORT: Vehicle
+      ADD_TRANSPORT: Add transport
+      CAR_NUMBER: Number of the car
+      TRAILER_NUMBER: Semi Trailer Number
+      CONTAINER_NUMBER: Container number
+      STORAGE_METHOD: Storage method
+      EMPTY_TRANSPORT_LIST: No vehicles
+      TRANSPORT_DELETED: Vehicle removed
+      TRANSPORT_CREATED: Vehicle Created
+      TRANSPORT_EDITED: Vehicle edited
+      ENTER_CAR_NUMBER: Enter vehicle number
+      AGENT: Counterparty
+      AGENTS: Counterparties
+      ADD_AGENT: Add counterparty
+      ORG_NAME: Business name
+      GUID: GUID
+      HS_NAME: Name XC
+      HS_GUID: GUID XC
+      AGENT_ADDED: Counterparty added
+      AGENT_CHANGED: Counterparty changed
+      AGENT_DELETED: Counterparty deleted
+    JOURNAL:
+      NUMBER: room
+      PRODUCTION_NAME: product name
+      PRODUCT_NAME: Product Name
+      PRODUCER: Manufacturer
+      COUNTRY: A country
+      REMAIN: The remainder
+      ADDED: Added
+      PRODUCED: Manufactured
+      EXPIRATION_DATE: Shelf life
+      PRODUCTION: Products
+      DATA_SYNC: Data synchronized
+      NEXT_DATA_SYNC: Next sync
+      WRITE_EXPIRED_PRODUCTION: Write off all expired products
+      AUTO_CONVERSION: Auto recycling
+      AUTO_CONVERSION_LIST_EMPTY: The list of products for auto recycling is empty
+      PRODUCTION_FORM: Type of product
+      WRITE: Write off
+      SEND: Submit
+      RECYCLE: Recycle
+      PRODUCTION_DETAILS: Product Details
+      SUPPLIER: Provider
+      PART_NUMBER: Production batch number
+      PACKING: Packaging
+      SORT: Sorting
+      LABORATORY_RESEARCH: Laboratory research
+      DATE_ADDED: Date Added
+      PRODUCTION_NUMBER: Record number
+      BALANCE: Product balance
+      PRODUCED_BY: Developed
+      PRODUCED_COUNTRY: Country of origin
+      ACT_NUMBER: Act Number
+      EXPERT_NUMBER: Expertise No.
+      LABORATORY: Laboratory
+      METHOD_RESEARCH: Research method
+      INDICATOR: Indicator
+      RESEARCH_DATE: Sample Date
+      RESULT_DATE: Result Date
+      CONCLUSION: Conclusion
+      RESULT: Result
+      EMPTY_LIST: the list is empty
+      POSITIVE: Positive
+      NEGATIVE: Negative
+      CREATE: Create
+      AUTO_CONVERSION_SELECT_ITEM: Choose the necessary position for the automatic
+        creation of products
+      NAME_PRODUCT: Name of product
+      VOLUME: Volume
+      MAX_VOLUME: Max. volume
+      PRODUCTION_CONVERSED: Products Recycled
+      TRANSPORT_INVOICE: Waybill
+      PRESENT: Is present
+      MISSING: Missing
+      PURPOSE: Cargo appointment
+      VET_EXPERTISE_RESULT: VSE Results
+      PROSPERITY_AREA: Well-being of the area
+      CREATE_TVSD: Creation of a new transport VVD
+      SET_PRODUCTION_INFO: Indicate the product and its volume for shipment
+      SET_VET_EXPERTIZE: Provide information on veterinary expertise
+      SET_RECIPIENT: Enter the information about the recipient of the goods
+      SET_TRANSPORT_INFO: Enter transport information
+      NEXT_TO_STEP: Next to step
+      TO_ISSUE: Checkout
+      RECIPIENT_ENTERPRISE: Enterprise Recipient
+      RECIPIENT_ENTERPRISE_NAME_GUID: Recipient Name / GUID
+      ENTERPRISE_NOT_FOUND: Company found
+      RECIPIENT_BUSINESS: Company Recipient
+      RECIPIENT_BUSINESS_NAME_INN: Beneficiary Name / TIN
+      RECIPIENT_BUSINESS_NOT_FOUND: No companies found
+      RECIPIENT_BUSINESS_INN: TIN of the recipient
+      SERIES: Series
+      DATE: date
+      PRODUCTION_WRITED_OFF: Products written off
+      INVENT_PARTIAL_WRITE: Take an inventory to partially write off products
+      AMOUNT: amount
+      MAX: Max
+      REASON: The reason for the statement of non-compliance
+      REASON_DESC: Mismatch description
+      TRAILER_NUMBER: Semi Trailer Number
+      CONTAINER_NUMBER: Container number
+      VEHICLE_NOT_FOUND: Vehicle not found
+      PRODUCTION_DATE_TIME: Production date and time
+      EXPIRY_DATE_TIME: Expiration date and time
+      PACKING_CATEGORY: Packaging category
+      UNIT_AMOUNT: Number of units
+      CONVERSION: Processing
+      CREATE_CONVERSION_VSD: Creation of a new IRR for processing
+      CONVERSION_DONE: Processing done
+      CONVERSION_FAILED: Processing not done
+      TVSD_CREATED: Transport VVD created
+      PURPOSE_FOR_HUMANS: Food for people
+      RESULT_POSITIVE: Positive result
+      WELL_AREA: Prosperous region
+      SET_REQUIRED_FIELDS: 'Fill in the required fields: Perishable products, Expiration
+        date, Type of packaging, Unit of measurement, Number of units in a package,
+        Volume of units in a package'
+      PRODUCTION_NOT_FOUND: Products not found
+      DICTIONARIES_NOT_FOUND: No directories found
+      CONVERSION_REMAINING: Recycle the remaining
+      MC_ORGANIZATION_NAME: Name of organization MixCart
+      INTERNAL_MOVE: Internal displacement
+      FOR_INTERNAL_MOVE: for internal displacement
+      EXPIRY_STATUS_EXPIRED: Expired
+      EXPIRY_STATUS_WARNING: Expires
+    VENDOR_VSD:
+      RETURN_TO_VENDOR: Return to supplier
+      CREATE_VENDOR_VSD: Creation of IRR for return to supplier
+      TRANSPORT_INFO: Enter transport information
+      IS_VENDOR_TRANSPORT: Used car supplier
+      RETURN_PURPOSE: The reason for the statement of non-compliance
+      REGISTER: Registration
+      COUNT: Amount (
+      MAX: Max)
+      RETURN_REGISTERED: Return issued
+      MAX_VALUE_ERROR: The value cannot be greater than the maximum
+  ANALYTICS:
+    ANALYTICS: Analytics
+    VOLUME_PURCHASES_FOR_PERIOD: The turnover of purchases for the period
+    ORDERS_BY_CUSTOMERS: The volume of purchases for the period
+    VOLUME_BY_CUSTOMERS: Volume by suppliers
+    STATISTICS_FOR_PRODUCTS: Product Statistics
+    NO_DATA: No data
+    PRODUCT: Product
+    UNITS: Units rev.
+    QUANTITY: Qty
+    TOTALS: Wed price per one.
+    NEW_ORDERS:
+      R_PLURAL: New order
+      PLURAL: New orders
+      SINGULAR: New order
+    ORDERS_IN_PROCESS:
+      R_PLURAL: Order is fulfilled
+      PLURAL: Orders Fulfilled
+      SINGULAR: Order is being executed
+    ORDERS_DONE:
+      R_PLURAL: Order completed
+      PLURAL: Orders completed
+      SINGULAR: Order completed
+    TOTALS_FOR_PERIOD: Period turnover
+    GO_TO_PRICE_DYNAMICS: Go to price dynamics statistics
+    BACK_TO_VOLUME_STATISTICS: Back to volume statistics
+    PRICE_DYNAMICS_FOR_PERIOD: Price dynamics for the period
+    PRODUCTS_STATISTICS: Product Statistics
+    NOMENCLATURE: Nomenclature
+    SUPPLIER: Provider
+    COUNT: Qty
+    PRICE_DYNAMICS: Price dynamics
+    ORDER: Order
+    PRICE_PRICELIST: Price list
+    PRICE_CONFIRMED: Confirmation Price
+    PRICE_ACCEPTANCE: Acceptance Price
+    PRICE_INVOICE: Invoice price
+  LOGIN:
+    ENTER_DETAILS: Enter authorization data
+    EMAIL_LABEL: E-mail address
+    EMAIL_REQUIRED: Enter Email
+    EMAIL_NOT_VALID: Invalid email address
+    PASSWORD_LABEL: Password
+    PASSWORD_REQUIRED: enter password
+    PASSWORD_NOT_VALID: For the password you must use only letters of the Latin alphabet,
+      at least 6 characters, including numbers / capital letters / special characters
+    WELCOME: Welcome
+    FORGOT_PASSWORD: Forgot your password?
+    REGISTER: check in
+    FIRST_TIME: First time with us?
+    LOGIN: To come in
+  REGISTRATION:
+    JOIN_US: join us
+    RESTAURANT: A restaurant
+    SUPPLIER: Provider
+    PHONE_LABEL: Phone
+    PHONE_REQUIRED: Enter phone
+    PHONE_NOT_VALID: Phone entered incorrectly
+    EMAIL_LABEL: E-mail address
+    EMAIL_REQUIRED: Enter Email
+    EMAIL_NOT_VALID: Invalid email address
+    PASSWORD_LABEL: Password
+    PASSWORD_REQUIRED: enter password
+    PASSWORD_NOT_VALID: For the password you must use only letters of the Latin alphabet,
+      at least 6 characters, including numbers / capital letters / special characters
+    REGISTER: Sign up
+    BY_PRESSING_REGISTER: By clicking on the “Register” button, you accept the conditions
+    EULA: User agreement
+    GRANTING_AGREEMENT: and give your consent to the processing of your personal information
+      on the conditions specified
+    PRIVACY_POLICY: Privacy policy
+    ALREADY_REGISTERED: Already have an account
+    LOGIN: entrance
+    BUSINESS_REQUIRED: Choose type of organization
+    NAME_LABEL: Name
+    NAME_REQUIRED: Enter name
+  RESTORE_PASSWORD:
+    PASSWORD_RESTORATION: Password recovery
+    ENTER_EMAIL: Enter the email address you used when registering
+    EMAIL_LABEL: E-mail address
+    EMAIL_REQUIRED: Enter Email
+    EMAIL_NOT_VALID: Invalid email address
+    RESTORE: Restore
+    INSTRUCTIONS_SENT: Password recovery instructions sent to your email address
+    GO_BACK: Return
+    LOGIN: entrance
+    REGISTER: check in
+  PHONE_VERIFICATION:
+    LAST_STEP: Only one step left
+    CONFIRM_VIA_SMS_CODE: Confirm the phone number with the received code from the
+      SMS message
+    SMS_CODE: SMS code
+    CODE_REQUIRED: Enter the code from the SMS message
+    CONFIRM: Confirm
+    SEND_AGAIN: Resend code
+    CHANGE_NUMBER: To change number
+  CHOOSE_ORGANIZATION:
+    YOUR_BUSINESS: Business Profile Selection
+    RESTAURANT: A restaurant
+    SUPPLIER: Provider
+    LOGOUT: Go out
+    WITHOUT_BUSINESS: Not included in business
+    CONNECTED: Connected
+    RESTAURANTS:
+      SINGULAR: a restaurant
+      PLURAL_1: restaurant
+      PLURAL_2: restaurants
+    LICENSE: License
+    LEFT: left
+    DAYS: days
+    ORGANIZATIONS_NOT_FOUND: Organization not found
+  CART:
+    CART: Basket
+    BEFORE_MIN_SUM: 'Up to min amounts:'
+    PRODUCTS_COUNT: 'Number of Positions:'
+    CLEAR: Clear
+    CHECKOUT: Checkout
+    QUANTITY_TRANSLATIONS:
+      R_PLURAL: of goods
+      PLURAL: of goods
+      SINGULAR: product
+    SUM: in the amount of
+    CART_EMPTY: Cart is empty
+    AND_OTHERS: "... and other products"
+  PRODUCT_LIST:
+    PRODUCT: Product
+    VENDOR_CODE: vendor code
+    SUPPLIER: Provider
+    PRICE: Price
+    QUANTITY: amount
+    PRODUCTS_NOT_FOUND: No products found.
+  PRODUCT_MODAL:
+    ARTICLE: vendor code
+    SUPPLIER: Provider
+    MANUFACTURER: Manufacturer
+    COUNTRY_MANUFACTURER: Producing country
+    UNITS: Multiplicity
+    DESCRIPTION: Comment
+    PRICE: Price
+    PRICE_WITH_VAT: Price with VAT
+    VAT: VAT
+    QUANTITY: amount
+  MARKET:
+    VENDOR_CARD: Vendor Card
+    MIN_ORDER_SUM: Min. Order amount
+    DELIVERY_PRICE: Cost of delivery
+    PRODUCTS_DISCOUNT: Discount on goods
+    DELIVERY_DISCOUNT: Shipping discount
+    DELIVERY_DAYS: Days of the week for delivery
+  CHECKOUT:
+    CHECKOUT_ORDER: Checkout
+    CART_EMPTY: Cart is empty
+    GO_TO_MARKET: Go to products
+    TOTAL: total amount
+    CLEAR: Clear
+    CHECKOUT_ALL: Checkout all orders
+    CHECKOUT_SOME: 'Checkout: {{orderCount}} of {{totalOrdersCount}}'
+    SUPPLIER: Provider
+    PRODUCT: Product
+    VENDOR_CODE: vendor code
+    QUANTITY: Qty
+    PRICE: Price
+    SUM: Amount
+    DISCOUNT: A discount
+    COMMENTS: Comments
+    DELIVERY: Delivery
+    DELIVERY_DATE: delivery date
+    COMMENT: Comment
+    CHECKOUT: Checkout
+    VENDOR_TRANSLATIONS:
+      R_PLURAL: suppliers
+      PLURAL: suppliers
+      SINGULAR: supplier
+    FROM: from
+  CREATE_ORDER:
+    MY_GOODS: My goods
+    TEMPLATES:
+      TAB_TITLE: Patterns
+      NOT_PERMISSIONS: You do not have permission to create, edit, or delete templates.
+      SORTING_FIELDS:
+        UPDATED_AT_ASCENDING: Ascending update date
+        UPDATED_AT_DESCENDING: Descending date update
+        NAME_ALPHABET: By the name of the template AZ
+        NAME_ALPHABET_REVERSE: By the name of the template YA
+    REQUESTS: Applications
+  SETTINGS:
+    PRIMARY:
+      LABEL: The main
+      COMPANY_NAME: Name of your company
+      LEGAL_ENTITY: Entity
+      LOGO: Logo
+      ADDRESS_LABEL: City, street, house
+      ABOUT_ORGANIZATION: brief information
+      CONTACT_NAME: The contact person
+      NAME: Name
+      EMAIL: Email
+      PHONE: Phone
+      SAVE: Save
+      ADDRESS_NOT_FOUND: Address not found
+      COUNTRY: A country
+    STAFF: Employees
+    STAFF_ADD_STAFF: Add Employee
+    STAFF_FIO: Full name
+    STAFF_EMAIL: Email
+    STAFF_PHONE: Phone
+    STAFF_ROLE: Role
+    STAFF_ADDED: Employee added
+    STAFF_REMOVED: Employee deleted
+    PRIVACY: Confidentiality
+    PRIVACY_FRANCHISE_LOGIN: Allow franchisees to access this Personal Area
+    PRIVACY_USER_AGREEMENT: Terms of use
+    PRIVACY_PRIVACY_POLICY: privacy policy
+    PRIVACY_AUTHORIZATION_DATA: Authorization Data
+    PRIVACY_CHANGE_PASS: Change password
+    PRIVACY_PASSWORD_CHANGED: Password changed
+    PRIVACY_SAVE: Save
+    TERMS_OF_USE_MIXMARKET: Mix Market Terms
+    TERMS_CONFIRMED: Mix Market Conditions Confirmed
+    PHONE_LABEL: Phone
+    PHONE_REQUIRED: Enter phone
+    PHONE_NOT_VALID: Incorrect telephone. Example + 7XXXXXXXXXXX
+    EMAIL_REQUIRED: Enter Email
+    EMAIL_NOT_VALID: Invalid email address
+    ACTIVITY_HISTORY:
+      ACTIVITY_HISTORY: Activity History
+      NOT_FOUND: Nothing found
+      DATE: date
+      EMPLOYEE: Employee
+      SERVICE: Service
+      STATUS: Event status
+      EVENT: Event
+      FILTER_BY:
+        DATE: By date
+        STATUS: By status
+        EMPLOYEE: By employee
+      TYPES:
+        ERROR: Mistake
+        SUCCESS: Successfully completed
+        COMPLETE: Completed
+    NOTIFICATIONS:
+      NOTIFICATIONS: Alerts
+      ADD_CONTACT_BUTTON_LABEL: Add contact
+      CONTACT: Contact
+      ORDER_CREATED: New order created
+      ORDER_CANCELLED: Order cancelled
+      ORDER_CHANGED: Order changed
+      ORDER_PROCESSING: Order Confirmed by Supplier
+      BILL_OUT: Billed
+      ORDER_DONE: Order completed successfully
+      ORDER_REQUEST_ACCEPT: New response to the application
+      ORDER_PRICE_CHANGE: My supplier has changed prices
+      SAVE_BUTTON_LABEL: Save
+      CHANGES_SAVED: Changes saved
+      CONTACT_ADDED: Contact added
+      CONTACT_REMOVED: Contact deleted
+      MERC_STOCK_EXPIRY: Expired Products
+      MERC_VSD: Outstanding IRR
+    INTEGRATION:
+      INTEGRATION: Integration
+      SERVICE: Service
+      NAME: Title
+      ACTIVITY: Activity
+      TERM: License term
+      LEFT: Left
+      EXPIRED: Is over
+      DAY: day
+      DAYS: days
+      DAYZ: of the day
+      DAYS_AGO: days ago
+      AGO: back
+      MAIL_ROBOT: Mail robot
+      MERCURY: Mercury
+      TERM_EXPIRED: expired
+      BACK_TO_SERVICES: Back to Services
+      INTEGRATION_MODE: Integration mode
+      MODE_AUTO: Auto
+      MODE_SEMI_AUTO: Semi-automatic
+      MODE_MANUAL: Manual
+      MODE_MANUAL_DESC: User invoice generation
+      MODE_SEMI_DESC: Invoices are created automatically according to the integration
+        and product matching settings
+      MODE_AUTO_DESC: Invoices are created automatically according to the settings
+        for integration and comparison of goods, as well as unloading into the accounting
+        system
+      SAVE: Save
+      RESET: Reset
+      MAIN_BUSINESS: Main business
+      MAIN_BUSINESS_COMPOSITES: Main business for comparison
+      BUSINESS_COMPOSITES_USES: Use main business matching
+      UPLOAD_PARAMS: Connection and upload options
+      UTM_PARAMS: UTM settings
+      OBJECT_WHITE_SERVER: White Server Object
+      AUTO_CONVERT: Automatic encoding conversion
+      UNLOAD_INVOICES: Unload invoices followed by
+      VAT_RATE: VAT rate
+      VAT_DEFAULT: The specified bid will be used if it is not set in the comparison
+      IIKO_CONNECTION_LINK: Link to connect to iiko Office
+      EGAIS_CONNECTION_LINK: Link to connect to UTM
+      TILLYPAD_CONNECTION_LINK: Link to connect to Tillypad
+      SERVER_LINK: Server address
+      SERVER_LINK_UTM: UTM address
+      POSTER_APP_ID: Poster application id
+      POSTER_APP_SECRET: Poster application secret
+      POSTER_ACCESS_TOKEN: Poster access token
+      AUTO_UNLOAD_INVOICE: Unload invoices followed by
+      VERIFY: Check
+      RECEIVE_TOKEN: Get token
+      EMPTY_VALUE: Enter value
+      SAVE_VALUES: Need to save settings
+      CONNECT_LOGIN: User login to connect
+      CODE_FSRAR: FSRAR code
+      LOGIN: Login
+      PASSWORD: Password
+      CONNECT_PASSWORD: User password to connect
+      VETIS_API_KEY: APIKey VetisAPI
+      VETIS_LOGIN: Login for Vetis
+      VETIS_PASSWORD: Password for Vetis
+      MERCURY_LOGIN: Login for Mercury&#39;s account
+      MERCURY_PASSWORD: Password for Mercury&#39;s account
+      ORGANIZATION_GUID: Enterprise GUID
+      SUBJECT_GUID: Subject GUID in the registry
+      BACK_TO_ROBOTS: Back to robots
+      ENABLED: Included
+      DISABLED: Switched off
+      ROBOT: Robot
+      MAIL_ROBOTS: Mail robots
+      CREATE_ROBOT: Create a robot
+      ORGANIZATION: Organization
+      EMAIL: Email Address
+      STATUS: Status
+      EDIT_DATE: Date of change
+      SERVER_TYPE: Server type
+      SERVER_ADDRESS: Server address
+      PORT: Port
+      'YES': 'Yes'
+      'NO': Not
+      ROBOT_LANG: Robot language
+      DESTROY: Destroy
+      SELECTED_BUSINESS: You changed the default integration
+      SAVED_SETTING: settings have been saved
+      INT_MODE_AUTO: Auto
+      INT_MODE_MANUAL: Manual
+      INT_MODE_SEMIAUTO: Semi-automatic
+      ROBOT_CREATED: Robot created
+      ROBOT_DELETED: Robot destroyed
+      ROBOT_UPDATED: Robot edited
+      CREATE: Create
+      SUCCESS_CONNECT: Connected successfully
+      IIKO_CONNECT_EXAMPLE: 'Example: http: //your_domain.ru: 8080 / resto / api'
+      EGAIS_CONNECT_EXAMPLE: 'Example: http: //your_domain.ru: 9002 /'
+      ROBOT_REQUIRED_FIELDS: "* Fields such as Server address, Port, Email address,
+        Password are required"
+      NO_LICENSE: No licenses
+      SELECT_ALL: Choose all
+      SEARCH_BY_NAME: Search by name
+      LICENSE_EXPIRED: Activate the license. Contact the manager.
+      SERVICE_NOT_ACTIVE: This service is not available. Contact the manager.
+      STORE_HOUSE_VERSION: StoreHouse Version
+      NEED_INVOICE: Check for Invoice
+      CREATING_WAYBILL_MOVE: Creating and Unloading a Travel Invoice
+  ANALOGS:
+    PRODUCT: Product
+    ARTICLE: vendor code
+    VENDOR: Provider
+    PRICE: Price
+    ADD: Add
+    REMOVE: Remove
+    SORT: Sort by
+    PRODUCTS: Products
+    GROUPS: Analog Groups
+    COUNT: Number of analogues
+    CHANGES_SAVED: Changes saved
+    CONFIRM_ORDERS: Orders are issued
+    CLEAR_ORDERS: Orders cleared
+    TO_EDI: To the document
+    TO_ORDER: To order
+    SETTING:
+      TITLE: Customization
+      COUNT_TRANSLATIONS:
+        R_PLURAL: analogue
+        PLURAL: analogues
+        SINGULAR: analog
+      CANCEL: Cancel
+      SAVE: Save
+      DELETE: Delete
+    NOT_DATA: The list of analogues is empty.
+    NOT_MOVED_MAIN_ANALOG: This product cannot be detached until ratios are set.
+  SUPPLIERS_LAZY:
+    NAME: Name
+    LOCATION: Location
+    CONTACTS: Contacts
+    COUNT_PRODUCTS: Total goods
+    AVAILABLE_PRODUCTS: Product Available
+    NOT_DATA: No suppliers found
+    CREATE: Create Provider
+    PRICE_LIST: Price list
+    MODAL:
+      ADD: Add Provider
+      ADD_CONTACTS: Add contact
+      EDIT_CONTACT: Edit contact
+      ADD_CONTACT_SUB: Add email or phone number for alerts
+      EDIT: Editing a vendor card
+      DELETE: Remove Provider
+      DELETE_CONTACT_BTN: Delete contact
+      SETTING: Additional settings
+      INFO: 'Provide supplier information:'
+      SETTING_INFO: 'Provide additional information about the supplier:'
+      NAME: Name of the organization
+      UR_ADDRESS: Legal address
+      CONTACT: The contact person
+      INN: TIN
+      EMAIL: E-mail address
+      EMAIL_TITLE: Email
+      PHONE: Phone
+      WARNING_SETTING: No additional settings have been set for this provider. Want
+        to install?
+      SKIP: Skip
+      SET: Yes install
+      MIN_SUM: 'Minimum order amount:'
+      CURRENCY_FOR_PRICE: In currency according to the price list
+      DELIVERY_PRICE: Cost of delivery
+      DELIVERY_DISCOUNT_PERCENT: Shipping Discount (%)
+      DISCOUNT_PRODUCT: Discount on goods (%)
+      BACKWARDS: Back
+      DELIVERY_DAYS: Days of the week for delivery
+      DAYS:
+        MONDAY: Mon
+        TUESDAY: Tue
+        WEDNESDAY: Wed
+        THURSDAY: Th
+        FRIDAY: Fri
+        SATURDAY: Sat
+        SUNDAY: Sun
+      SAVE: Save
+      CANCEL: Cancel
+      SAVED: Changes saved
+      CHECK: Check
+      ADD_BTN: Add
+      SEND_MESSAGE: Message sent
+      DELETE_CONTACT: Delete contact?
+      DELETE_CONTACT_SUB: Are you sure you want to delete the contact
+      ON_CHANGE: Edit
+      ON_DELETE: Delete
+      ON_ADD_PICTURE: Add
+      CREATED: Provider added
+      DELETED: Provider successfully uninstalled
+      DELETED_ITEM: Item deleted
+      DELETE_ITEM: Delete item?
+      CANCELED_UPDATE_ITEM: Cancel line item editing?
+      CANCELED_UPDATE_ITEM_CONFIRM: Yes cancel
+      'NO': Not
+      DELETED_ITEM_CONTACT: Contact deleted
+      UPDATED: Supplier data updated
+      EDIT_PRICE: Price List Editing
+      CALL_EDIT_PRICE: Edit price list
+      EDIT_CONTACTS: Edit contacts and alerts
+      CLEAR_PRICE: Clear price
+      UNLOAD: Download
+      UPDATE: Refresh
+      ARTICLE: vendor code
+      NAME_PRODUCT: Name of product
+      CATEGORY: Category
+      PRICE: Price
+      BALANCE: Leftovers
+      UNIT: unit of measurement
+      PRODUCT_UNITS: Multiplicity
+      ERROR_INPUT: To add a position, fill in the fields
+      PICTURE_ADD: Photo added
+      PICTURE_DELETE: Photo deleted
+      CONTACTS: Contact
+      NEW_ORDER: New order created
+      CANCELED_ORDER: Order cancelled
+      CHANGED_ORDER: Order changed
+      DONE_ORDER: Order completed
+      TO_SEND_MESSAGE: Want to send an email?
+      TO_SEND_MESSAGE_SUB: 'A message will be sent to the specified contact: “MixCart
+        sends greetings!”'
+      SEND: Submit
+      SELECT_ALL:
+        TITLE1: Availability for {{quantity}} line items
+        TITLE2: Selected {{quantity}} line items, select the remaining {{quantityAll}}
+          line items?
+        UN_TITLE1: Discontinued from {{quantity}} line items.
+        UN_TITLE2: Remove availability from {{quantityAll}} line items?
+        TO_LINK: Select remaining items
+        TITLE: All {{quantity}} line items selected.
+        UN_TITLE: Remove availability from all {{quantity}} line items
+  SUPPLIERS:
+    LINKS: Connected Providers
+    TITLE: Suppliers
+    ANALOGS: Analogs
+    ADD_SUPPLIER: Invite a supplier
+    EDI_STATUS: Electronic Document Management EDI
+    NAME: Title
+    LOCATION: Location
+    PARTNERSHIP_STATUS: Partnership status
+    BUTTON_PRODUCTS_LABEL: Products
+    BUTTON_REMOVE_LABEL: Delete
+    NO_DATA: No suppliers found
+    STATUSES:
+      PARTNER: Partner
+      PARTNER_WITHOUT_CATALOG: Partner. Directory not assigned
+      PARTNER_PENDING: Awaiting Confirmation
+      PARTNER_REJECTED: Refused to cooperate
+    FILTER_BY:
+      BY: Sort by
+      NAME: The name
+      LOCATION: Location
+      STATUS: Partnership status
+  EGAIS:
+    INVOICE: Consignment notes
+    REFERENCES: Directories
+    TTN:
+      INVOICE_SUCCESS: In the section &#39;Integration&#39; added invoice
+      NUMBER: No. TTN
+      DATE_CREATE: Date of issue
+      NUMBER_EGAIS: EGAIS No.
+      STATUS: Status
+      VENDOR: Provider
+      CONSIGNEE: Consignee
+      PRODUCT:
+        NAME: Name
+        PRODUCER: Manufacturer
+        PLAN: Plan
+        FACT: Fact
+        PRICE: Amount
+        QUANTITY: Qty
+        QR_CODE: Excise stamp
+        BAR_CODE: Barcode
+      SIDE:
+        NOT_SELECTED: No invoice selected
+        WAYBILL: Waybill
+        COUNT_TRANSLATIONS:
+          R_PLURAL: positions for the amount
+          PLURAL: positions for the amount
+          SINGULAR: position amount
+        RETURN: Return
+        CHECK: Check
+        EXCISE_STAMPS: excise stamps
+        STATUS_DATE: status date
+        OF: of
+        ACCEPTANCE: Acceptance
+        PARTIALLY_ACCEPTED: Partial acceptance
+        ACCEPTANCES: To accept?
+        ACCEPTANCES_MESSAGE1: Confirm acceptance of the goods for the selected items.
+        ACCEPTANCES_MESSAGE2: Unselected items or items with a changed quantity of
+          goods will be included in the act of disagreement.
+        CONFIRM: Yes accept
+        CONFIRM_RETURN: Yes return
+        RETURNED: Make a refund?
+        RETURNED_MESSAGE1: Confirm the return of all products of the selected TTN
+        RETURNED_MESSAGE2: All commodity items contained in the TTN will be included
+          in the return act.
+        GENERATE: generate invoice
+      MODAL:
+        LINK_SCANNER: Connect the scanner
+        LINK_SCANNER_SUB: Please confirm the connection of the barcode reader.
+        LINK_SCANNER_CONFIRM: Yes, connected
+        SCAN_QR_CODE: Scan Excise Stamp
+        SCAN_BAR_CODE: Scan the barcode
+        SCANNING_POSITION: Products of this position are scanned
+        SCANNING: Scanned goods
+        NAME: Name
+        DELETE: Delete
+        TO_APPLY: To apply
+        TO_COMPLETE: To complete
+        OPEN_TABLE_PRODUCT: Go to product table
+        INPUT_COUNT: Enter quantity
+        NEXT: Further
+        SELECT_AN_ACTION: Select an action
+        SELECT_AN_ACTION_SUB: You have an incomplete inventory. Choose an action to
+          continue.
+    REMAINS:
+      REMAINS: Leftovers
+      NAME: Name
+      PRODUCER: Manufacturer
+      MARK: Excise stamp
+      PRICE: Price
+      COUNT: Qty
+      ON_SUM: in the amount of
+      WRITE_OFF: Write-off
+      REALIZATION: Implementation
+      INVENTARIZATION: Inventory
+      MATCH: Match
+      ENTER_WRITE_DATA: Enter data to be charged
+      SELECT_MODE: 'Select type of charge:'
+      SCANNER_MODE: Write-off using a scanner
+      MANUAL_MODE: Manual charge
+      NEXT: Continue
+      ADD_PRODUCT: Add product
+      GO_TO_TABLE: Go to the product table
+      POSITIONS:
+        R_PLURAL: positions
+        PLURAL: positions
+        SINGULAR: position
+      DESCRIPTION: Description
+      PRODUCT: Product
+      BAR_CODE: Barcode
+      QUANTITY: amount
+      FOR_REMAINS: to write off
+      FOR_IMPLEMENTATION: for implementation
+      FOR_INVENTORY: for inventory
+      ADD_PRODUCT_SAVED: Product successfully added.
+    INVENTORY:
+      ACT: Act No.
+      ACT_NUMBER: Act No.
+      CREATED_DATE: date of creation
+      STATUS: Status
+      CANCEL: Cancel
+      ACCEPT: To accept
+      DONE: To complete
+      FOUND_INCONSISTENCIES: Discrepancies found
+      ACT_OF_INCONSISTENCIES: Act of Non-Compliance
+      AUTO_SELECT: Auto Record
+      ADD_PASS: Add inventory
+      BACK: Back
+      SAVE: Save
+      FROM: of
+      PRODUCT_NAME: Name of product
+      PRODUCER: Manufacturer
+      BARCODE: Barcode
+      BALANCE: Balance
+      REGISTER: Inventory
+      REASON: Cause
+      CURRENT_MODE_SCAN: Continue inventory on current inventory
+      NEW_MODE_SCAN: Continue inventory in new inventory
+      CREATE_ACT: Create an inventory act
+      ACTS_SET: Form Acts
+      SELECTED: 'Selected:'
+      DESCRIPTION: Description
+      DESCRIPTION_SUB: Indicate the reason for debiting
+    REFERENCES_TAB:
+      REFERENCE: Directory
+      UPDATED: Updated
+      COUNT: Qty
+      UNIT: Unit.
+      MATCHING: Mapping
+      UPDATE_ALL: Refresh All
+      PRODUCT: Product
+      PRODUCTS: of goods
+      SELECTED: Selected
+      RESET_MATCH: Reset mapping
+      ADD_BARCODE: Add barcode
+      EDIT_BARCODE: Barcode editing
+      MATCH_NOMENCLATURE: Item matching
+      BACK_TO_REFERENCES: Back to directories
+      VENDOR: Provider
+      VENDOR_PRODUCT: Supplier goods
+      EGAIS_PRODUCT: EGAIS product
+      COEF: Coef.
+      CANCEL: Cancel
+      MATCH_VENDORS: Supplier Mapping
+      VENDOR_EGAIS: EGAIS Provider
+      INN_KPP: INN / KPP
+      OGRN: PSRN
+      PANEL_NOMENCLATURE_MESSAGE: Select one or more product items to set matching
+        values or add a barcode
+      PANEL_VENDORS_MESSAGE: Select one or more vendor items to set up a mapping
+      PRODUCT_TRANSLATIONS:
+        R_PLURAL: of goods
+        PLURAL: of goods
+        SINGULAR: product
+      VENDOR_TRANSLATIONS:
+        R_PLURAL: supplier
+        PLURAL: suppliers
+        SINGULAR: provider
+      SELECTED_TRANSLATIONS:
+        R_PLURAL: selected
+        PLURAL: selected
+        SINGULAR: selected
+      INFORMATION: Information
+  FILTER_BAR:
+    ORDER_TYPE: Type of order
+    DOCUMENT_TYPE: Document type
+    NOMENCLATURE: Nomenclature
+    SUPPLIER: Provider
+    SUPPLIER_EGAIS: EGAIS Provider
+    EMPLOYEE: Employee
+    CURRENCY: Currency
+    PRODUCT_BAR: Product
+    UPDATE_DATE: Update date
+    REPORT_DATE: Report for dates
+    PERIOD: Period
+    CATEGORY: Product Category
+    PRICE: Price
+    FROM: from
+    TO: before
+    BY: By
+    SORT_BY: Sort by
+    BY_NAME_ASC: name a-z
+    BY_NAME_DESC: name ZA
+    BY_EVENT_NAME_ASC: event name AZ
+    BY_EVENT_NAME_DESC: the name of the event ZA
+    BY_PRICE_ASC: price increase
+    BY_PRICE_DESC: price decrease
+    BY_SUPPLIER: to the supplier
+    BY_EMPLOYEE: employee
+    BY_STATUS: status
+    BY_DATE: the date
+    BY_DATE_ASC: 'date: ascending'
+    BY_DATE_DESC: 'date: descending'
+    BY_SERVICE: service
+    BY_EVENT: event
+    LOCATION: Location
+    DETECT_AUTOMATICALLY: Detect automatically
+    APPLY_PRICE: To apply
+    SEARCH_NAME: Search by name
+    SEARCH_NAME_PRODUCT: Product Search
+    SEARCH_NAME_CONTACTS: Search for contacts
+    SEARCH_BUSINESS: Business Search
+    NO_SEARCH_BUSINESS: Business not found
+    SEARCH_NOMENCLATURE_PLACEHOLDER: Search by item
+    SEARCH_CATEGORY_PLACEHOLDER: Search by category
+    SEARCH_VENDOR_PLACEHOLDER: Search by supplier
+    SEARCH_AGENT_PLACEHOLDER: Counterparty Search
+    SEARCH_EMPLOYEE_PLACEHOLDER: Search by employee
+    PRODUCT_SEARCH_PLACEHOLDER: Product Search
+    NO_SUPPLIERS: Provider not found
+    NO_AGENT: Counterparty not found
+    NO_EMPLOYEE: No employee found
+    NO_CATEGORY: Category not found
+    CONFIRM_DATE: Confirm
+    COLOR: Colour
+    STATUS_ORDER: Order status
+    VSD: Incoming IRR
+    VSD_STATUS: Statuses
+    COMPANY_SENDER: Company sender
+    SEARCH_COMPANY_SENDER: Sender company search
+    NOSEARCH_COMPANY_SENDER: Sender company not found
+    PRODUCT: By product
+    SEARCH_PRODUCT: Product Search
+    NOSEARCH_PRODUCT: Product not found
+    DATE_RANGE: date
+    DATE_WAYBILL_RANGE: Invoice date
+    DATE_EGAIS_TTN_RANGE: TTN Date
+    DATE_RECEIVING: date of receiving
+    ACQUIRER: Business
+    STORE: Stock
+    SEARCH_STORE_PLACEHOLDER: Warehouse Search
+    NO_STORE: Warehouse not found
+    NOT_DATA: No data
+    REFRESH: Refresh
+    SERVICE: Service
+    WRITE_OFF_TYPES: Debit Basis
+    PRODUCT_ONE: Product
+    STATUS:
+      TITLE: Status
+      SUCCESS: Successfully completed
+      ERROR: Mistake
+      MAIL_BOT: Mail robot
+    DATE_ADD: Date Added
+    PRODUCED: Manufactured
+    EXPIRY_DATE: Shelf life
+    PRODUCTION_NAME: product name
+    NUMBER_TTN: TTN number
+    MARK: Mark
+    BAR_CODE: Barcode
+    PRODUCTION_DIRECTION: A source
+    FIND: Search
+    NAME: Name
+    CONCEPT: Concept
+    ROLE: Role
+    RESTAURANT: A restaurant
+  HISTORY:
+    HISTORY: Story
+    SUPPLIER: Provider
+    CREATION_DATE: date of creation
+    COMPLETION_DATE: Date of completion
+    ARE_PENDING: Awaiting Confirmation
+    ARE_UNDER_PROCESS: Are in progress
+    ARE_COMPLETED: Completed
+    ARE_CANCELED: Canceled
+    SENT_BY_VENDOR: Sent by supplier
+    PENDING_VENDOR_APPROVAL: Awaiting Provider Confirmation
+    PENDING_CLIENT_APPROVAL: Awaiting Customer Confirmation
+    UNDER_PROCESS: Performed
+    COMPLETED: Completed
+    CANCELED_BY_VENDOR: Rejected by provider
+    CANCELED_BY_CLIENT: Canceled by customer
+    UNDER_FORMING: Formed
+    PARTIALLY_SHIPPED: Partially shipped
+    REPLENISHMENT_BALANCES: Balance replenishment
+    SET_INVOICE: Invoiced
+    PRE_ORDER: Preorder
+    ORDER_NUMBER: Order No.
+    STATUS: Status
+    CREATOR: Order created
+    CANCEL: Cancel
+    REPEAT: Repeat
+    FINISH: To complete
+    PRODUCT: Product
+    VENDOR_CODE: vendor code
+    QUANTITY: Qty
+    PRICE: Price
+    SUM: Amount
+    ORDERED: Ordered
+    COMMENTS: Comment
+    ORDER_NUM: Order No.
+    ORDER_NUM_MIXMARKET: Order Mix Market No.
+    DELIVERY_NUM: Supply No.
+    TOTAL_SUM: total amount
+    DELIVERY_DATE: delivery date
+    DISCOUNT: A discount
+    DELIVERY: Delivery
+    MENU: Menu
+    EDIT: Edit
+    DOWNLOAD_AS_PDF: Download as PDF
+    DOWNLOAD_AS_EXCEL: Download in Excel
+    CREATE_TEMPLATE: Create Template
+    CREATED_TEMPLATE: Template created successfully
+    TO_MESSAGES: To messages
+    CLIENT: Customer
+    VENDOR: Provider
+    COMMENT: Comment on the order
+    CANCEL_ENTRY: Cancel input
+    SAVE: Save
+    ACCEPTANCE_COMPLETED: Acceptance completed
+  EDO:
+    ORDERS_NOT_FOUND: No orders found
+    ORDER_NOT_FOUND: Order not found
+    EDO_TITLE: Electronic document management
+    INVOICES: No. of waybill
+    EDO: Documents
+    SUPPLIER: Provider
+    CREATION_DATE: date of creation
+    STATUS_DATE: Status Date
+    COMPLETION_DATE: Date of completion
+    ARE_PENDING: Awaiting Confirmation
+    ARE_UNDER_PROCESS: Are in progress
+    SENT_BY_VENDOR: Sent by supplier
+    ACCEPTANCE_COMPLETED: Acceptance completed
+    COMPLETED: Completed
+    CANCELED: Canceled
+    ARE_SENT: Shipped
+    ARE_COMPLETED: Completed
+    ARE_CANCELED: Canceled
+    PENDING_VENDOR_APPROVAL: Awaiting Provider Confirmation
+    PENDING_CLIENT_APPROVAL: Awaiting Customer Confirmation
+    CANCELED_BY_VENDOR: Rejected by provider
+    CANCELED_BY_CLIENT: Canceled by customer
+    UNDER_FORMING: Formed
+    PARTIALLY_SHIPPED: Partially shipped
+    REPLENISHMENT_BALANCES: Balance replenishment
+    SET_INVOICE: Invoiced
+    ORDER_NUMBER: Document No.
+    STATUS: Status
+    CREATOR: Order created
+    CANCEL: Cancel
+    REPEAT: Repeat
+    FINISH: To complete
+    PRODUCT: Product
+    VENDOR_CODE: vendor code
+    QUANTITY: Qty
+    PRICE: Price
+    SUM: Amount
+    COMMENTS: Comment
+    ORDER_NUM: Document No.
+    ORDER_NUM_MIXMARKET: Mix Market Document No.
+    TOTAL_SUM: total amount
+    DELIVERY_DATE: delivery date
+    DISCOUNT: A discount
+    DELIVERY: Delivery
+    MENU: Menu
+    EDIT: Edit
+    DOWNLOAD_AS_PDF: Download PDF
+    DOWNLOAD_AS_XLS: Download xls
+    CREATE_TEMPLATE: Create Template
+    TO_MESSAGES: To messages
+    CLIENT: Customer
+    VENDOR: Provider
+    COMMENT: Comment on the order
+    CANCEL_ENTRY: Cancel input
+    SAVE: Save
+    ADD_PRODUCT: Add product
+    COMPLETE_ACCEPTANCE: End acceptance
+    PROCESSING: Performed
+    ACCEPTANCE: Acceptance
+    PAYMENT: Payment
+    SENT: Sent
+    REJECTED: Rejected
+    ITEM_LIST:
+      INVOICE: Supply
+    ALERTS:
+      PROCESSING: Document sent to vendor, wait for completion
+      PERFORMED: Document received by supplier, wait for shipment
+      PARTIALLY_SHIPPED: Go to the delivery for goods acceptance
+      SENT_BY_SUPPLIER: Go to the delivery for goods acceptance
+      ACCEPTANCE_COMPLETED: Document delivery received, expect invoice
+    DOWNLOAD_INVOICE: Download invoice
+  PRE_ORDER:
+    PRODUCT: Product
+    ARTICLE: vendor code
+    PLAN: Plan
+    FACT: Fact
+    SUM: Amount
+    BACK_TO_PREORDERS: Back to preorders
+    OPEN_PANEL_PRODUCTS: Open product panel
+    COMMENT: Comment
+    DELIVERY: Delivery
+    TO_ISSUE: Checkout
+    REPEAT: Repeat
+    REPEAT_ORDER: Repeat order
+    FROM: from
+    TO_PREORDER: in pre-order No. {{orderId}}
+    INFO_ORDER: Order Information
+    ANALOGS:
+      VENDOR: Provider
+      QUANTITY: amount
+      COST: Price
+    UNIQ_PRODUCT_TRANSLATIONS:
+      R_PLURAL: unique product
+      PLURAL: unique goods
+      SINGULAR: unique product
+    PRODUCT_TRANSLATIONS:
+      R_PLURAL: of goods
+      PLURAL: of goods
+      SINGULAR: product
+    VENDOR_TRANSLATIONS:
+      R_PLURAL: suppliers
+      PLURAL: suppliers
+      SINGULAR: supplier
+    REGISTRATION: Registration
+    CANCEL: Cancel
+    CLEAR: clear
+    CONFIRM_ALL: Checkout all orders
+    TOTAL_SUM: total amount
+    MIN_SUM: 'Minimum order amount:'
+    DELIVERY_PRICE: Delivery Amount
+    ADDRESS_DELIVERY: Delivery address
+  PRE_ORDERS:
+    NAME: Preorder
+    CREATION_DATE: date of creation
+    CHANGED: Changed
+    CREATED_BY: Created by
+    QUANTITY: amount
+    AMOUNT: Amount
+    COMPLETE: To complete
+    ALL: Everything
+    OPENED: Open
+    CLOSED: Closed
+    STATUS: Status
+    SORT:
+      CREATED_AZ: "“Who created the order” AZ"
+      CREATED_ZA: "“Who created the order” I-A"
+      AMOUNT_AZ: Ascending Amount
+      AMOUNT_ZA: Decrease amount
+  TEMPLATES:
+    ADD: Add
+    CREATE_TEMPLATE: Create Template
+    REMOVE: Remove
+    ALL_TEMPLATES: All templates
+    TEMPLATE_CART:
+      IN_TEMPLATE: In the template
+      CANCEL: Cancel
+      SAVE: Save
+    TEMPLATE_LIST:
+      UPDATED_AT: 'Updated:'
+      MAKE_ORDER: To order
+    NAME_INPUT_PLACEHOLDER: Template Name
+    NO_TEMPLATES: No templates
+  DIALOGS:
+    CHAT:
+      TO_THE_ORDER: To order
+      MESSAGE_INPUT_PLACEHOLDER: Enter your message
+      NO_NOTIFICATIONS: No notifications
+    MESSAGES: Messages
+    ALL_NOTIFICATIONS: All alerts
+    MARK_ALL_READ: Mark All Read
+    MIXCART_BOT: Mixcart bot
+  EDIT_ORDER:
+    ADD_PRODUCT: Add product
+    SAVE: Save
+    OK: Ok
+    TO_ORDER: Order No. {{orderId}}
+    VENDOR_NAME: "&quot;{{VendorName}}&quot;"
+  EDIT_ORDER_PRODUCT_LIST_ENTRY:
+    COMMENT_PLACEHOLDER: Add a comment
+  HISTORY_ORDER_EDIT:
+    COMMENT_PLACEHOLDER: Add a comment
+  HISTORY_ORDER_EDIT_ITEM_LIST:
+    ADD_PRODUCT: Add product
+  REQUESTS:
+    OPENED_REQUESTS: Open
+    ALL_REQUESTS: All applications
+    CREATE_REQUEST: Create request
+    REQUEST_CARD:
+      EXECUTIVE: Executor
+      EXECUTIVE_IS_NOT_ASSIGNED: Not assigned
+      OPEN: Open
+      CLOSED: Closed
+      CREATED: Created by
+      MORE: More details
+      CANCEL_REQUEST: Cancel application
+      CLOSE_REQUEST: Close
+      CATEGORY: Category
+    REQUESTS_NOT_FOUND: No applications found
+  REQUEST_PAGE:
+    ALL_REQUESTS: All applications
+    REQUEST_NUMBER: Application No.
+    STATUS_OPEN: Open
+    STATUS_CLOSED: Closed
+    STATUS_CONTRACTOR_ASSIGNED: Contractor appointed
+    VALID_UNTIL: expires
+    AMOUNT: Purchase volume
+    FREQUENCY: Periodicity
+    REGULAR: Regularly
+    ONE_TIME: One-time
+    PAYMENT_METHOD: Payment method
+    CASH: Cash
+    CASHLESS: Cashless payments
+    PAYMENT_DEFERMENT: Deferment of payment
+    CONTRACTOR_NOT_SET: No contractor appointed
+    CANCEL_REQUEST: Cancel application
+    CLOSE_REQUEST: Close
+    VENDOR: Provider
+    PRICE: Price
+    COMMENT: Comment
+    ASSIGN: Assign
+    REVOKE_ASSIGNEE: Take off
+  UNCONFIRMED_VENDOR_ORDER:
+    INTRO: You have received a new order. Please review the order and adjust it if
+      necessary.
+    CANCEL_ORDER_START: Cancel
+    CANCEL_ORDER_END: order
+    CONFIRM_ORDER: Accept order
+    UNSUBSCRIBE: Unsubscribe
+    UNSUBSCRIBE_FROM: from this newsletter
+    BACK: Back
+    SAVE: Save
+    COPYRIGHT: "© 2018 MixCart - Online Market LLC"
+    BACK_TO_ORDER: To order
+  INTEGRATION:
+    RKEEPER: R-keeper
+    IIKO: iiko
+    TILLYPAD: Tillypad
+    POSTER: Poster
+    1C: 1C
+    REQUEST: Request
+    SENDER: Sender
+    RECIPIENT: Recipient
+    ERROR_SERVICE: You must install the integration service in the settings
+    NAME: Integration with
+    SAVED: Data saved
+    SETTING: Configure settings for transferring to
+    ORDER_MIXCART: MixCart order number
+    DELIVERY_NUMBER: Supplier Shipped Number
+    SGENAKIAUTO: Generate invoices automatically
+    SUPPLIER: Counterparty
+    NUMBER: room
+    STATUS: Status
+    DOCUMENT: Document
+    ORDER: Order
+    DOC_NUMBER_ORDER: By order
+    LINK: Mapped to
+    LINKED: Match
+    MATCHING: Mapping
+    NOT_SPECIFIED: Not specified
+    NOT_PRODUCTS: No products
+    STORE: 'Stock:'
+    WAYBILL: Waybill
+    WAYBILLS_TAB: Overhead
+    DIRECTORIES: Directories
+    POSITION_ORDER: Order Items
+    REDIRECT_ORDER: To order
+    REDIRECT_REQUEST: To application
+    REDIRECT_DOCUMENT: To the document
+    SET_NUMBER_WAYBILL: Set Delivery No.
+    ADD_WAYBILL: Add invoice
+    NUMBER_WAYBILL: Delivery number
+    NUMBER_WAYBILL_TEXT: The assigned number will be used to form the invoice when
+      unloaded to the accounting system
+    SAVE: Save
+    CANCEL: Cancel
+    CANCELED: Cancel
+    UNLOAD: Unload
+    UNLOADS: Unloaded
+    ERROR_UNLOAD: Upload Error
+    WAYBILL_TTN: EGAIS TTN
+    WAYBILL_MOVING: Moving
+    RESET: Reset
+    RESET_WAYBILL: Reset invoice?
+    RESET_CONFIRM: Yes reset
+    DELETE: Delete
+    DELETE_PRODUCT: Delete item?
+    DELETE_PRODUCT_SUBTITLES: Delete item item from invoice?
+    DELETE_WAYBILL: Delete invoice?
+    DELETE_WAYBILL_SUBTITLES: All items inside the invoice will be deleted
+    DELETE_CONFIRM: Yes delete
+    REMOVE: Remove
+    ADD_POSITIONS: Add line items
+    PRODUCT: Product
+    FIND_STORE: Warehouse Search
+    HAS_ERROR_INPUT: Required fields
+    ERROR_SEND_RUN: Error unloading invoice
+    SEND_BEGIN: An invoice has been added to the unload queue
+    SEND_RUN: Waybill unloaded
+    SENDS_RUN: Invoices added to unload queue
+    INVALID_PRODUCT_INVOICE: You have selected the goods added to the invoice from
+      the order and the accounting system. Group actions not allowed
+    WITH_STORE: From stock
+    ON_STORE: To the warehouse
+    TO_SUPPLY: to supply
+    ON_REQUEST: By application
+    PRODUCT_DETAIL:
+      NAME: Item Details
+      COEF: Coeff. Mixcart
+      COST: Price
+      SUM: Amount
+      WITH_RATE: with VAT
+      UNIT: unit of measurement
+    WAYBILL_DETAILS:
+      NAME: Consignment Details
+      CODE: Digits code
+      DATE_DOCUMENT: Document Date
+      NUMBER_INPUT: Incoming Document Number
+      FACTOR: Invoice No.
+      PAYMENT_DELAY: Deferred payment date
+      NOTE: Note
+      FIND_AGENT: Counterparty Search
+    MOVE:
+      ERROR_WAYBILL: The invoice should only be selected in the order.
+      ERROR_PRODUCT: You can select items in only one order
+      BUTTON: Add to invoice
+      WAYBILL_SELECT: Select the invoice and click the &quot;Add to Invoice&quot;
+        button
+      PRODUCT: Product
+      MOVE: Move
+      TO_WAYBILL:
+        R_PLURAL: goods on this waybill?
+        PLURAL: goods on this waybill?
+        SINGULAR: goods on this waybill?
+      PRODUCTS:
+        R_PLURAL: item selected
+        PLURAL: items selected
+        SINGULAR: item selected
+    CREATE_WAYBILL:
+      BUTTON: Create invoice
+      MESSAGE1: You can create invoices
+      MESSAGE2: not related to orders or
+      MESSAGE3: documents for uploading to
+    GOODS:
+      NAME: Name
+      AMOUNT: Qty
+      SUM_NDS: Value with VAT
+      DELIVERY: Delivery
+    WAYBILLS:
+      R_PLURAL: waybills
+      PLURAL: waybills
+      SINGULAR: waybill
+    COMPARISON:
+      NOT_SELECT: Select one or more product items to set matching values
+      PRODUCTS_COMPARISON: Product Matching
+      VAT_RATE: VAT rate %
+      PRICE_INCLUDED_RATE: Price includes VAT
+      'YES': 'Yes'
+      'NO': Not
+      SUM: Amount
+      SUM_WITH_RATE: Amount with VAT
+      NAME: Name
+      QUANTITY: Qty
+      UNITS: Units rev.
+      COEFFICIENT: Coeff.
+      SUM_WITHOUT_RATE: Amount w / o
+      VAT: VAT
+      CUSTOMER_DOCUMENT: Matching a document from a vendor
+      CREATE_DATE: date of creation
+      COMPLETION_DATE: Date of completion
+      ORDER_NUMBER: Order No.
+      ORDER_ID: Order ID
+      CREATED_BY: Order created
+      COMPARISON_NOMENCLATURE: Item matching
+      MAIN_BUSINESS: Main business
+      FIND: Product Search
+      CUSTOMER: Provider
+      CUSTOMER_PRODUCT: Supplier Product
+      PRODUCT: Product
+      STOCK: Stock
+      SELECTED: Selected
+      PRODUCTS: of goods
+      DETAILS: Details
+      COEFFICIENT_FULL: Coefficient
+      RESET_COMPARISON: Reset mapping
+      RESET_MESSAGE: Are you sure you want to reset the matching options? All data
+        will be reset to zero.
+      YES_RESET: Yes reset
+    DICTIONARY:
+      ID: Identifier
+      COMMENT: Comment
+      UNIT: Units
+      CODE: Code
+      TYPE: Type of
+      ACTIVITY: Activity
+      PRODUCT_TYPE: type of product
+      PLACE_PRODUCTION: Place of production
+      NAME: Directory
+      INFO: Click Download to update the data in the directory from the accounting
+        system.
+      ALL: All directories
+      REFERENCE: Directories
+      UPLOAD: Download
+      UPLOAD_ALL: Download all
+      UPDATE: Updated
+      COUNT: Qty
+      STATUS: Status
+      PRODUCT_TYPES: Product Types
+      AGENTS: Counterparties
+      ANENT_SETTING: Make counterparty settings
+      CUSTOMER_IN: Supplier at MixCart
+      CUSTOMER_WAYBILL: Supplier in the Supplier invoice
+      CUSTOMER_WAYBILLS: Suppliers to Supplier invoices
+      NAME_CUSTOMER_WAYBILL: Invoice Name
+      ADD_NAMES_CUSTOMER: Add vendor name
+      ADD_NAMES_CUSTOMER_ERROR: This name has already been set.
+      STORE_DEFAULT: Default Warehouse
+      INCLUDE_TAX: Order with VAT
+      INCLUDE_TAX_TITLE: Order includes VAT
+      IGNORE_TAX_TITLE: Ignore VAT
+      DELAY_DAY: Deferred payment days
+      STORE: Warehouses
+      PRODUCTS: Products
+      NOMENCLATURE: Nomenclature
+      CATAGORIES: Categories
+      PRODUCT_GROUPS: Product groups
+      UPDATED: Updated
+      ERROR: Mistake
+      NOT_UPDATED: Not updated
+      PRICE_SYNC_RUN: The price list has been added to the update queue.
+      SYNC_RUN: Directory added to update queue
+      SYNC_RUN_ALL: Directories added to the update queue
+      NAMES: Title
+      'YES': 'Yes'
+      'NO': Not
+      VENDOR_WAYBILL: Supplier on supplier invoice
+      STORES_REMAINS: Warehouse balances
+      PRODUCT: Product
+      PRODUCT_TYPE_2: Product type
+      BALANCE: The remainder
+      STORE_DEALER: Intermediary warehouses
+      ADD_STORE_DEALER: Add warehouse
+  PRIVACY:
+    NAV:
+      EULA: Terms of use
+      PRIVACY_POLICY: Personal Data Processing Policy
+      HELP: Help
+      TESTIMONIALS: Reviews
+    MODAL:
+      CLOSE: Close
+      PUBLISHING_DATE: Publication Date
+      OK: Ok
+  MY_ORDERS:
+    ORDERS: Orders
+    PRE_ORDERS: Preorders
+    DOCUMENTS: Documents
+LAYOUTS:
+  CLIENT:
+    MARKET: Mix Market
+    CREATE_ORDER: To order
+    MY_ORDERS: My orders
+    VENDORS: Suppliers
+    MESSAGES: Messages
+    HISTORY: Story
+    DOCUMENTS: Documents
+    ANALYTICS: Analytics
+    SETTINGS: Settings
+    INTEGRATION: Integration
+    INTERMEDIAR: Mediator
+    BUSINESS_PROFILE: Business profile
+    CHANGE_BUSINESS_PROFILE: Change
+    MIXCART: Mixcart
+    COPYRIGHT: 2016 - {{currentYear}} MixCart
+    MERCURY: Mercury
+    EGAIS: EGAIS
+    LICENSE_EXPIRE: License expires
+    CONTACT_MANAGER: 'You can contact the manager by phone:'
+  HELP: Help
+  VIDEOS: Video instructions
+  GO_TO_MC1: Go to 1.0
+  REVIEWS: Reviews
+  LOGOUT: Log out
+  LANGUAGE: Tongue
+  SEARCH: Search
+  AT_MIXMARKET: by product Mix Market
+  AT_MY_SUPPLIER_GOODS: by products of my suppliers
+  NOTIFICATIONS_COUNT: Alerts
+  OF: 6 of {{totalNotifications}}
+  ALL_NOTIFICATIONS: All alerts
+  NO_NOTIFICATIONS: No alerts
+MODALS:
+  ADD_PRICE:
+    VENDOR_ADDED: Add Provider
+    VENDOR_ADDED_MESSAGE_1: Hooray! Provider
+    VENDOR_ADDED_MESSAGE_2: created.
+    VENDOR_ADDED_MESSAGE_3: To place an order with him, let&#39;s upload his price
+      list.
+    ADD_PRICE_BUTTON_LABEL: Download price
+    BACK_BUTTON_LABEL: Back
+  VENDOR_CARD:
+    VENDOR_CARD: Vendor Card
+    EMAIL_LABEL: E-mail address
+    COMPANY_LABEL: Name of the organization
+    INN: TIN
+    CONTACT_NAME: The contact person
+    PHONE_LABEL: Phone
+    CLOSE: Close
+  REDIRECT_NOTIFICATION_MODAL:
+    TITLE: Attention
+    MESSAGE: You will be redirected to the supplier’s personal account page
+    CANCEL: Cancel
+    CONFIRM: Go to
+  DEFAULT_BUTTONS:
+    TEXT_DEFAULT_OK_BUTTON: Ok
+    TEXT_DEFAULT_CANCEL_BUTTON: Cancel
+  NEW_SUPPLIER:
+    ADD: Add Provider
+    NOT_FOUND: 'Provider not found. Provide information about him:'
+    FOUND: 'Provider found. Check his contact details:'
+    FOUND_MULTIPLE: 'Found several suppliers. Choose your:'
+    INN: TIN
+    INN_INVALID: TIN entered incorrectly
+    TITLE: Invite a supplier
+    EMAIL_NOT_VALID: The field is incorrect
+    NOTE_BEFORE_SEARCH: Indicate the email address of the supplier and we will check
+      whether it works in our system
+    EMAIL_LABEL: E-mail address
+    PHONE_LABEL: Phone
+    PHONE_INVALID: The phone number you entered is incorrect. Example + 7XXXXXXXXXXX
+    CONTACT_NAME: The contact person
+    COMPANY_LABEL: Name of the organization
+    FIELD_REQUIRED: Required field
+    CHECK_LABEL: Check
+    ADD_LABEL: Add
+    BACK_LABEL: Back
+    SUPPLIER_ADDED: Provider added successfully
+  EDIT_SUPPLIER:
+    TITLE: Edit Provider
+    BUTTON_LABEL: Save
+    CONTACT_NAME: The contact person
+    COMPANY_LABEL: Name of the organization
+    EMAIL_NOT_VALID: Invalid email address
+    ADDRESS_LABEL: Address
+    PHONE_LABEL: Phone
+    INN: TIN
+    INN_INVALID: TIN entered incorrectly
+    EMAIL: E-mail address
+    FIELD_REQUIRED: Required field
+    PHONE_INVALID: The phone number you entered is incorrect. Example + 7XXXXXXXXXXX
+  REMOVE_SUPPLIER:
+    TITLE: Remove Provider
+    QUESTION: Are you sure you want to remove the provider?
+    BUTTON_CANCEL: Cancel
+    BUTTON_CONFIRM: Delete
+  CHANGE_PASSWORD:
+    TITLE: Change password
+    OLD_PASSWORD_LABEL: Old Password
+    NEW_PASSWORD_LABEL: New password
+    REPEAT_NEW_PASSWORD_LABEL: repeat new password
+    BUTTON_LABEL: Change
+    PASSWORD_REQUIRED: enter password
+    PASSWORDS_MISMATCH: Passwords do not match
+    PASSWORD_NOT_VALID: For the password you must use only letters of the Latin alphabet,
+      at least 6 characters, including numbers / capital letters / special characters
+  CHANGE_PHONE:
+    TITLE: Confirm phone number change
+    INFO: 'Code sent to:'
+    CALL_TO_ACTION: Enter the code from the SMS message
+    PASSCODE_LABEL: Code
+    BUTTON_LABEL: Confirm
+    PASSCODE_REQUIRED: Enter code
+    SEND_PASSCODE:
+      BUTTON_LABEL: Resend code
+      FIRST_SECONDS_LETTER: with
+  CORRECT_PHONE:
+    TITLE: Enter a new phone number
+    PHONE_LABEL: Phone number
+    BUTTON_LABEL: Confirm
+    PHONE_REQUIRED: Enter phone number
+    PHONE_INCORRECT_PATTERN: Incorrect telephone. Example + 7XXXXXXXXXXX
+    CANCEL_BUTTON_LABEL: Cancel
+  STAFF:
+    EDIT_TITLE: Edit profile
+    NEW_TITLE: Add Employee
+    REMOVE_TITLE: Delete employee
+    REMOVE_QUESTION: Are you sure you want to remove the employee?
+    FIELD_REQUIRED: Fill in the field
+    CHOOSE_ROLE: Fill in the field
+    INCORRECT_EMAIL: Invalid email address
+    INCORRECT_PHONE: Invalid phone number
+    SAVE_BUTTON_LABEL: Save
+  REMOVE_STAFF:
+    BUTTON_CANCEL: Cancel
+    BUTTON_CONFIRM: Delete
+  COMMENT:
+    ENTER: Write a comment
+    LABEL: your comment
+    SAVE: Save
+  ADD_NOTIFICATION_CONTACT:
+    TITLE: Add contact
+    EMAIL_LABEL: E-mail address
+    INFO: Add Email Address to Receive Alerts
+    BUTTON_SAVE_LABEL: Save
+    EMAIL_REQUIRED: Enter email address
+  CREATE_REQUEST:
+    URGENT: Rush order
+    CATEGORY: Product Category
+    CREATE_REQUEST: Create Request
+    PRODUCT_LABEL: What do you want to buy?
+    AMOUNT: Volume of purchase, kg
+    FREQUENCY: Purchase frequency
+    ONE_TIME: One-time
+    DAILY: Daily
+    WEEKLY: Every week
+    MONTHLY: Every month
+    PAYMENT_METHOD: Payment method
+    CASH: Cash
+    CASHLESS: Cashless payments
+    DEFERMENT: Deferment of payment
+    COMMENT: Comment
+    CREATE: Create
+    ERRORS:
+      PRODUCT_NAME_REQUIRED: Enter a name
+      CATEGORY_REQUIRED: Select a category
+      AMOUNT_REQUIRED: Indicate volume
+      PAYMENT_METHOD_REQUIRED: Choose payment type
+      DEFERMENT_REQUIRED: Indicate the desired deferred payment
+  REQUEST_ACTION:
+    CLOSE_REQUEST:
+      TITLE: Close application?
+      MESSAGE: Are you sure you want to close the application?
+      CONFIRMATION_BUTTON: Close
+    CANCEL_REQUEST:
+      TITLE: Withdraw an application?
+      MESSAGE: Are you sure you want to withdraw the application?
+      CONFIRMATION_BUTTON: Take off
+    SET_CONTRACTOR:
+      TITLE: Appoint an executor?
+      MESSAGE: Are you sure you want to appoint a supplier as an executor and start
+        cooperation?
+      CONFIRMATION_BUTTON: Yes, assign
+    REMOVE_CONTRACTOR:
+      TITLE: Remove from execution?
+      MESSAGE: Are you sure you want to remove the supplier from the execution of
+        the application?
+      CONFIRMATION_BUTTON: Take off
+  ADD_PRICE_FOR_VENDOR:
+    INITIAL_STEP:
+      TITLE: Loading price
+      SUBTITLE: After loading the price list, go through a few simple steps to process
+        it.
+      STEPS:
+      - Indicate the column containing the article or another field by which duplicates
+        will be searched
+      - Select column with product name
+      - Select Price Column
+      - Select Unit Column
+      - Select a column with a multiplicity of the minimum purchase volume
+      - Choose the currency of the price list
+      - Remove duplicate items, if any, and view the download result.
+      TIP: Only goods for which the name and price are indicated will be loaded. The
+        remaining lines will not be loaded.
+      CHOOSE_FILE: Select a file
+    CHOOSE_SPECIFIC_FIELD:
+      TITLE: Loading price
+      TITLE_SPAN: step {{currentStep}} of 7
+      STEP_NAMES:
+      - BEGINNING: Select column with
+        ARTICLE: item code
+        OR: or
+        ANOTHER: to other
+        END: the value by which duplicate searches will be performed
+      - BEGINNING: Select column with
+        PRODUCT_NAME: product name
+      - BEGINNING: Select column with
+        PRODUCT_ED: unit of measure
+      - BEGINNING: Select column with
+        PRODUCT_PRICE: price of goods
+      - BEGINNING: Select column with
+        PRODUCT_UNITS: multiplicity
+        ENDING: minimum volume of purchase of goods
+      SELECTED_COLUMN_NAME:
+        NAME: Name
+        ARTICLE: vendor code
+        UNIT: unit of measurement
+        PRICE: Price
+      SKIP_STEP_TIP: If there is no suitable column in the price list, then duplicate
+        searches will be performed by product name, and you can skip this step
+      OTHER_STEPS_TIP: Only goods for which the name and price are indicated will
+        be loaded. Other lines will not be loaded
+      BACK: Back
+      SKIP: Skip
+      NEXT: Further
+      EMPTY_PRICE: Price is empty
+    CHOOSE_FIELD_FOR_DUPLICATES_SEARCH:
+      TITLE: Loading price
+      TITLE_SPAN: step {{currentStep}} of 7
+      REMOVE_DUPLICATES: Eliminate duplicates for processing
+      THERE_IS_DUPLICATES: There are duplicate items in your file. Please delete them.
+      REMOVE_DUPLICATES_BUTTON: Delete duplicates, leaving the first position in each
+        group
+      ALL_DUPLICATES_ARE_REMOVED: All duplicates have been deleted.
+      ARTICLE: vendor code
+      PRODUCT_NAME: Name of product
+      PRICE: Price,
+      UNITS_AKA_ED: unit of measurement
+      TIP: Before processing the price list, remove the found duplicates leaving one
+        position in each group
+      BACK: Back
+      PROCESS: Process
+      NO_DUPLICATES: No duplicates found
+      CONFIRMATION_EXIT: The price has not yet been loaded. Are you sure you want
+        to leave the page?
+    CANCEL_PRICE_UPLOADING:
+      TITLE: Abort download
+      MESSAGE: All progress will be reset, continue?
+      CONFIRM: Abort
+      CANCEL: Cancel
+    CHOOSE_CURRENCY:
+      TITLE: Loading price
+      STEP_NUMBER: step {{currentStep}} of 7
+      INSTRUCTIONS: Select the currency of the price list for processing
+      TIP: Only goods for which the name and price are indicated will be loaded. Other
+        lines will not be loaded
+      BACK: Back
+      NEXT: Further
+    PRICE_LOADED:
+      TITLE: Loading price
+      TITLE_SPAN: step {{currentStep}} of 7
+      INSTRUCTION: Please check the downloaded price list.
+      ARTICLE: vendor code
+      PRODUCT_NAME: Name
+      PRICE: Price
+      UNITS_AKA_ED: unit of measurement
+      TIP: You can check the result of loading the price list and remove excess items
+        if they exist
+      DONE: Done
+      NO_PRODUCTS: No products found.
+  LICENSE_EXPIRED:
+    TITLE: Attention!
+    EXPIRED_AT: License expired {{expirationDate}}
+    LICENSE_REQUIRED: To activate this business profile, contact us by phone
+    INSTRUCTIONS: 'You can contact the MixCart manager by phone:'
+  ACTIVITY_DETAILS:
+    TITLE: Event details
+    CODE: Event code
+    DESCRIPTION: Description
+    CLOSE: Close
+COMPONENTS:
+  NOTIFICATION:
+    ORDER_CHANGES_SAVED:
+      SAVED: Order changes saved
+    PRODUCT_ADDED:
+      ADDED: Product added to cart
+    ORDER_REGISTERED:
+      SET_DELIVERY_DATE: Enter delivery date
+      SET_DELIVERY_DATE_FOR_ALL: Specify the delivery date and enter the minimum order
+        amount for all orders
+      MIN_ORDER_TOTAL_PRICE_ERROR_HEADER: Minimum order amount not reached
+      MIN_ORDER_TOTAL_PRICE_ERROR_ALL: Some orders were not issued, because the minimum
+        order amount has not been reached or the delivery date is not indicated
+      MIN_ORDER_TOTAL_PRICE_ERROR_ONE: Not enough {{costToMinTotalPrice}} to the minimum
+        order amount from this supplier
+      REGISTERED: Order successfully placed
+      REGISTERED_ALL: All orders are successfully placed.
+      NO_PRODUCTS: There are no products in the order. Add products to the order.
+      SOME_REGISTERED: Orders {{registeredCount}} of {{totalOrdersCount}} completed
+        successfully
+    ORDER_ACTION:
+      ORDER_SAVED:
+        TITLE: Order saved successfully
+      ORDER_REPEATED:
+        TITLE: Order No. {{orderId}} in the basket
+        MESSAGE: "{{ProductCount}} items were added to cart from order {{{orderId}}"
+        MESSAGE_ROW_2_PART_ONE: Go to
+        MESSAGE_ROW_2_PART_TWO_LINK: checkout
+      ORDER_CANCELLED:
+        TITLE: Order canceled successfully
+      ORDER_COMPLETED:
+        TITLE: Order completed successfully
+    REQUESTS_ACTION:
+      REQUEST_CREATED:
+        TITLE: Application successfully created!
+        MESSAGE: Application deadline is 30 days. You can also remove it from publication
+          manually.
+      CONTRACTOR_SET:
+        TITLE: Contractor appointed
+        MESSAGE: Confirmation email sent to {{vendorName}}
+      CONTRACTOR_UNSET:
+        TITLE: Supplier discontinued
+    PRICE_ADDED:
+      VENDOR_SUCCESSFULLY_ADDED: Price successfully added.
+      PRICE_SUCCESSFULLY_UPDATED: Price successfully changed
+    EDO_ORDER:
+      SUCCESSFULLY_SAVED: Order changes saved
+    SETTINGS:
+      SAVED: Settings saved successfully
+    TEMPLATE:
+      DELETED: Template deleted successfully
+      CHANGED: Template changed successfully
+      CREATED: Template created successfully
+      RENAMED: The template has been renamed successfully.
+      NAME_REQUIRED: Enter a template name
+  SORT:
+    SORT_BY: Sort by
+ERRORS:
+  UnauthorizedHttpException: Invalid email address or password
+  GENERAL_SERVER_ERROR: The server cannot yet process your request. Try again later.
+  INCORRECT_PHONE: Invalid phone number
+  CERTIFICATES: There are not redeemed certificates
+  CERTIFICATE: Certificate not redeemed
+DATEPICKER:
+  FROM: from
+  TO: before
+MESSAGES:
+  SYSTEM:
+    PRODUCT: Product
+    ARTICLE: vendor code
+    QUANTITY: Qty
+    PRICE: Price
+    SUM: Amount
+GENERAL:
+  EXAMPLE: for example
+  CONCEPT: Concept
+  CONCEPTS: Of the concept
+  BACK_TO_REFERENCES: Back to directories

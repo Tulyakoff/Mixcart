@@ -198,14 +198,14 @@ MODALS:
     INITIAL_STEP:
       CHOOSE_FILE: Select a file
       STEPS:
-        '0': Specify a column containing a vendor code or another field, which will
-          be used for search of duplicates
-        '1': Select a column with the name of the product.
-        '2': Select a price column
-        '3': Select a unit column
-        '4': Select a column with a multiplicity of minimum purchase
-        '5': Choose a price-list currency
-        '6': Remove duplicate items, if any, and view the upload result.
+      - Specify a column containing a vendor code or another field, which will be
+        used for search of duplicates
+      - Select a column with the name of the product.
+      - Select a price column
+      - Select a unit column
+      - Select a column with a multiplicity of minimum purchase
+      - Choose a price-list currency
+      - Remove duplicate items, if any, and view the upload result.
       SUBTITLE: After uploading the price list, follow a few simple steps to process
         it.
       TIP: Only products for which the name and price are indicated will be uploaded.
@@ -399,11 +399,20 @@ PAGES:
     VENDOR: Supplier
   ANALYTICS:
     ANALYTICS: Analytics
-    NEW_ORDERS: New order
+    NEW_ORDERS:
+      R_PLURAL: New order
+      PLURAL: New orders
+      SINGULAR: New order
     NO_DATA: No data
     ORDERS_BY_CUSTOMERS: Orders for suppliers
-    ORDERS_DONE: Orders completed
-    ORDERS_IN_PROCESS: Orders in process
+    ORDERS_DONE:
+      R_PLURAL: Order completed
+      PLURAL: Orders completed
+      SINGULAR: Order completed
+    ORDERS_IN_PROCESS:
+      R_PLURAL: Order is fulfilled
+      PLURAL: Orders Fulfilled
+      SINGULAR: Order is being executed
     PRODUCT: Product
     QUANTITY: Amount
     STATISTICS_FOR_PRODUCTS: Statistics on products
@@ -411,6 +420,20 @@ PAGES:
     TOTALS_FOR_PERIOD: Turnover for the period
     VOLUME_BY_CUSTOMERS: Volume by suppliers
     VOLUME_PURCHASES_FOR_PERIOD: Volume of purchases for the period
+    UNITS: Units rev.
+    GO_TO_PRICE_DYNAMICS: Go to price dynamics statistics
+    BACK_TO_VOLUME_STATISTICS: Back to volume statistics
+    PRICE_DYNAMICS_FOR_PERIOD: Price dynamics for the period
+    PRODUCTS_STATISTICS: Product Statistics
+    NOMENCLATURE: Nomenclature
+    SUPPLIER: Provider
+    COUNT: Qty
+    PRICE_DYNAMICS: Price dynamics
+    ORDER: Order
+    PRICE_PRICELIST: Price list
+    PRICE_CONFIRMED: Confirmation Price
+    PRICE_ACCEPTANCE: Acceptance Price
+    PRICE_INVOICE: Invoice price
   CART:
     AND_OTHERS: "... and other products"
     CART: Cart
@@ -422,6 +445,8 @@ PAGES:
       R_PLURAL: products
       SINGULAR: product
     SUM: of total
+    BEFORE_MIN_SUM: 'Up to min amounts:'
+    PRODUCTS_COUNT: 'Number of Positions:'
   CHECKOUT:
     CART_EMPTY: Cart empty
     CHECKOUT: Checkout
@@ -450,7 +475,6 @@ PAGES:
   CHOOSE_ORGANIZATION:
     CONNECTED: Connected
     DAYS: days left
-    LEFT: ''
     LICENSE: License
     LOGOUT: Logout
     ORGANIZATIONS_NOT_FOUND: Organizations not found
@@ -462,6 +486,7 @@ PAGES:
     SUPPLIER: Supplier
     WITHOUT_BUSINESS: Not included in the business
     YOUR_BUSINESS: Choosing a business profile
+    LEFT: left
   CREATE_ORDER:
     MY_GOODS: My products
     REQUESTS: Requests
@@ -551,6 +576,17 @@ PAGES:
     UNDER_FORMING: Is formed
     VENDOR: Supplier
     VENDOR_CODE: Vendor code
+    SET_INVOICE: Invoiced
+    ORDER_NUM_MIXMARKET: Mix Market Document No.
+    ACCEPTANCE: Acceptance
+    PAYMENT: Payment
+    ALERTS:
+      PROCESSING: Document sent to vendor, wait for completion
+      PERFORMED: Document received by supplier, wait for shipment
+      PARTIALLY_SHIPPED: Go to the delivery for goods acceptance
+      SENT_BY_SUPPLIER: Go to the delivery for goods acceptance
+      ACCEPTANCE_COMPLETED: Document delivery received, expect invoice
+    DOWNLOAD_INVOICE: Download invoice
   EGAIS:
     INVENTORY:
       ACCEPT: To accept
@@ -713,6 +749,7 @@ PAGES:
         WAYBILL: Invoice
       STATUS: Status
       VENDOR: Supplier
+      INVOICE_SUCCESS: In the section &#39;Integration&#39; added invoice
   FILTER_BAR:
     ACQUIRER: Business
     APPLY_PRICE: Apply
@@ -800,6 +837,11 @@ PAGES:
     VSD: Incoming VSD
     VSD_STATUS: Status
     WRITE_OFF_TYPES: Reason for cancellation
+    ORDER_TYPE: Type of order
+    DOCUMENT_TYPE: Document type
+    NOMENCLATURE: Nomenclature
+    PERIOD: Period
+    SEARCH_NOMENCLATURE_PLACEHOLDER: Search by item
   HISTORY:
     ARE_CANCELED: Canceled
     ARE_COMPLETED: Completed
@@ -851,6 +893,9 @@ PAGES:
     UNDER_PROCESS: In process
     VENDOR: Supplier
     VENDOR_CODE: Vendor code
+    SET_INVOICE: Invoiced
+    ORDER_NUM_MIXMARKET: Order Mix Market No.
+    ACCEPTANCE_COMPLETED: Acceptance completed
   HISTORY_ORDER_EDIT:
     COMMENT_PLACEHOLDER: Add a comment
   HISTORY_ORDER_EDIT_ITEM_LIST:
@@ -959,6 +1004,9 @@ PAGES:
       UPLOAD_ALL: Download all
       VENDOR_WAYBILL: Supplier Invoice
       'YES': 'Yes'
+      IGNORE_TAX_TITLE: Ignore VAT
+      STORE_DEALER: Intermediary warehouses
+      ADD_STORE_DEALER: Add warehouse
     DIRECTORIES: Directories
     DOC_NUMBER_ORDER: By order
     DOCUMENT: Document
@@ -1049,6 +1097,15 @@ PAGES:
       SINGULAR: invoice
     WAYBILLS_TAB: Invoices
     WAYBILL_TTN: UGAIS UIC
+    REQUEST: Request
+    SENDER: Sender
+    RECIPIENT: Recipient
+    REDIRECT_REQUEST: To application
+    WAYBILL_MOVING: Moving
+    WITH_STORE: From stock
+    ON_STORE: To the warehouse
+    TO_SUPPLY: to supply
+    ON_REQUEST: By application
   INTERMEDIAR:
     ADD_ADDRESS: Add address
     ADDRESS: Address
@@ -1377,6 +1434,8 @@ PAGES:
       WELL_AREA: Prosperous region
       WRITE: Write off
       WRITE_EXPIRED_PRODUCTION: Write off all expired products
+      RECIPIENT_ENTERPRISE_NAME_GUID: Recipient Name / GUID
+      RECIPIENT_BUSINESS_NAME_INN: Beneficiary Name / ITN
     LABORATORY_RESULT: The result of laboratory research
     LIST_OF_MANUFACTURERS: List of manufacturers
     MAX: MAX
@@ -1782,7 +1841,6 @@ PAGES:
       INT_MODE_AUTO: Auto
       INT_MODE_MANUAL: Manual
       INT_MODE_SEMIAUTO: Semi automatic
-      LEFT: ''
       LICENSE_EXPIRED: Activate the license. Contact the manager.
       LOGIN: Login
       MAIL_ROBOT: Mail robot
@@ -1851,6 +1909,8 @@ PAGES:
       VETIS_LOGIN: Login for «Vetis»
       VETIS_PASSWORD: Password for «Vetis»
       'YES': 'Yes'
+      LEFT: Left
+      CREATING_WAYBILL_MOVE: Creating and Unloading a Travel Invoice
     NOTIFICATIONS:
       ADD_CONTACT_BUTTON_LABEL: Add contact
       CHANGES_SAVED: Changes saved
@@ -1868,6 +1928,7 @@ PAGES:
       ORDER_PROCESSING: Order confirmed by supplier
       ORDER_REQUEST_ACCEPT: New response to the request
       SAVE_BUTTON_LABEL: Save
+      BILL_OUT: Billed
     PHONE_LABEL: Phone
     PHONE_NOT_VALID: Incorrect phone number. Example + 7XXXXXXXXXX
     PHONE_REQUIRED: Enter the phone number
@@ -1901,6 +1962,8 @@ PAGES:
     STAFF_PHONE: Phone
     STAFF_REMOVED: Employee removed
     STAFF_ROLE: Role
+    TERMS_OF_USE_MIXMARKET: Mix Market Terms
+    TERMS_CONFIRMED: Mix Market Conditions Confirmed
   SUPPLIERS:
     ADD_SUPPLIER: Invite Supplier
     ANALOGS: Analogs
@@ -2049,3 +2112,21 @@ PAGES:
     SAVE: Save
     UNSUBSCRIBE: Unsubscribe
     UNSUBSCRIBE_FROM: from this newsletter
+  PRODUCT_MODAL:
+    ARTICLE: vendor code
+    SUPPLIER: Provider
+    MANUFACTURER: Manufacturer
+    COUNTRY_MANUFACTURER: Producing country
+    UNITS: Multiplicity
+    DESCRIPTION: Comment
+    PRICE: Price
+    PRICE_WITH_VAT: Price with VAT
+    VAT: VAT
+    QUANTITY: amount
+  MARKET:
+    VENDOR_CARD: Vendor Card
+    MIN_ORDER_SUM: Min. Order amount
+    DELIVERY_PRICE: Cost of delivery
+    PRODUCTS_DISCOUNT: Discount on goods
+    DELIVERY_DISCOUNT: Shipping discount
+    DELIVERY_DAYS: Days of the week for delivery

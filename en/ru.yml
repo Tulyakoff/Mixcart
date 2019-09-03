@@ -1435,6 +1435,7 @@ PAGES:
       WRITE: Write off
       WRITE_EXPIRED_PRODUCTION: Write off all expired products
       RECIPIENT_ENTERPRISE_NAME_GUID: Recipient Name / GUID
+      RECIPIENT_BUSINESS_NAME_INN: Beneficiary Name / ITN
     LABORATORY_RESULT: The result of laboratory research
     LIST_OF_MANUFACTURERS: List of manufacturers
     MAX: MAX
